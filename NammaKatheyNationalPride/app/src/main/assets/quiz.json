@@ -1,0 +1,4517 @@
+[
+  {
+    "heroName": "Kittur Chennamma",
+    "questionEnglish": "Who did Kittur Chennamma fight against?",
+    "questionKannada": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ ಯಾರ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?",
+    "optionsEnglish": [
+      "British",
+      "French",
+      "Mughals",
+      "Portuguese"
+    ],
+    "optionsKannada": [
+      "ಬ್ರಿಟಿಷರು",
+      "ಫ್ರೆಂಚ್",
+      "ಮುಘಲರು",
+      "ಪೋರ್ಚುಗೀಸ್"
+    ],
+    "correctAnswerEnglish": "British",
+    "correctAnswerKannada": "ಬ್ರಿಟಿಷರು"
+  },
+  {
+    "heroName": "Kittur Chennamma",
+    "questionEnglish": "Which state did Kittur Chennamma rule?",
+    "questionKannada": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ ಯಾವ ಸಂಸ್ಥಾನವನ್ನು ಆಳುತ್ತಿದ್ದರು?",
+    "optionsEnglish": [
+      "Kittur",
+      "Mysore",
+      "Keladi",
+      "Surapura"
+    ],
+    "optionsKannada": [
+      "ಕಿತ್ತೂರು",
+      "ಮೈಸೂರು",
+      "ಕೆಳದಿ",
+      "ಸುರಪುರ"
+    ],
+    "correctAnswerEnglish": "Kittur",
+    "correctAnswerKannada": "ಕಿತ್ತೂರು"
+  },
+  {
+    "heroName": "Kittur Chennamma",
+    "questionEnglish": "Who was the adopted son of Kittur Chennamma whose rights she fought for?",
+    "questionKannada": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ ಅವರ ಯಾವ ದತ್ತು ಪುತ್ರನ ಹಕ್ಕುಗಳಿಗಾಗಿ ಅವರು ಹೋರಾಡಿದರು?",
+    "optionsEnglish": [
+      "Shivalingappa",
+      "Rayanna",
+      "Bheema Rao",
+      "Madiwalaappa"
+    ],
+    "optionsKannada": [
+      "ಶಿವಲಿಂಗಪ್ಪ",
+      "ರಾಯಣ್ಣ",
+      "ಭೀಮರಾವ್",
+      "ಮಡಿವಾಳಪ್ಪ"
+    ],
+    "correctAnswerEnglish": "Shivalingappa",
+    "correctAnswerKannada": "ಶಿವಲಿಂಗಪ್ಪ"
+  },
+  {
+    "heroName": "Sangolli Rayanna",
+    "questionEnglish": "Who was the military leader who fought alongside Kittur Chennamma?",
+    "questionKannada": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮರ ಜೊತೆಗೂಡಿ ಹೋರಾಡಿದ ಸೇನಾನಾಯಕ ಯಾರು?",
+    "optionsEnglish": [
+      "Sangolli Rayanna",
+      "Mailara Mahadevappa",
+      "Mundargi Bheema Rao",
+      "Madakari Nayaka"
+    ],
+    "optionsKannada": [
+      "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ",
+      "ಮೈಲಾರ ಮಹದೇವಪ್ಪ",
+      "ಮುಂಡರಗಿ ಭೀಮರಾವ್",
+      "ಮದಕರಿ ನಾಯಕ"
+    ],
+    "correctAnswerEnglish": "Sangolli Rayanna",
+    "correctAnswerKannada": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣ"
+  },
+  {
+    "heroName": "Sangolli Rayanna",
+    "questionEnglish": "In which district is Sangolli Rayanna's statue located?",
+    "questionKannada": "ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣನ ಪ್ರತಿಮೆ ಯಾವ ಜಿಲ್ಲೆಯಲ್ಲಿದೆ?",
+    "optionsEnglish": [
+      "Belagavi",
+      "Dharwad",
+      "Haveri",
+      "Gadag"
+    ],
+    "optionsKannada": [
+      "ಬೆಳಗಾವಿ",
+      "ಧಾರವಾಡ",
+      "ಹಾವೇರಿ",
+      "ಗದಗ"
+    ],
+    "correctAnswerEnglish": "Belagavi",
+    "correctAnswerKannada": "ಬೆಳಗಾವಿ"
+  },
+  {
+    "heroName": "Sangolli Rayanna",
+    "questionEnglish": "Where was Sangolli Rayanna executed by the British?",
+    "questionKannada": "ಬ್ರಿಟಿಷರು ಸಂಗೊಳ್ಳಿ ರಾಯಣ್ಣನನ್ನು ಎಲ್ಲಿ ಗಲ್ಲಿಗೇರಿಸಿದರು?",
+    "optionsEnglish": [
+      "Nandagad",
+      "Belagavi",
+      "Kittur",
+      "Dharwad"
+    ],
+    "optionsKannada": [
+      "ನಂದಗಡ",
+      "ಬೆಳಗಾವಿ",
+      "ಕಿತ್ತೂರು",
+      "ಧಾರವಾಡ"
+    ],
+    "correctAnswerEnglish": "Nandagad",
+    "correctAnswerKannada": "ನಂದಗಡ"
+  },
+  {
+    "heroName": "Tipu Sultan",
+    "questionEnglish": "Who is known as the 'Tiger of Mysore'?",
+    "questionKannada": "'ಮೈಸೂರು ಹುಲಿ' ಎಂದು ಯಾರನ್ನು ಕರೆಯುತ್ತಾರೆ?",
+    "optionsEnglish": [
+      "Tipu Sultan",
+      "Hyder Ali",
+      "Krishnaraja Wadiyar",
+      "Jayachamarajendra Wadiyar"
+    ],
+    "optionsKannada": [
+      "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+      "ಹೈದರ್ ಅಲಿ",
+      "ಕೃಷ್ಣರಾಜ ಒಡೆಯರ್",
+      "ಜಯಚಾಮರಾಜೇಂದ್ರ ಒಡೆಯರ್"
+    ],
+    "correctAnswerEnglish": "Tipu Sultan",
+    "correctAnswerKannada": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್"
+  },
+  {
+    "heroName": "Tipu Sultan",
+    "questionEnglish": "Tipu Sultan popularized which advanced weapon against the British?",
+    "questionKannada": "ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಯಾವ ಆಧುನಿಕ ಆಯುಧವನ್ನು ಬಳಸಿದರು?",
+    "optionsEnglish": [
+      "Rockets",
+      "Tanks",
+      "Cannons",
+      "Submarines"
+    ],
+    "optionsKannada": [
+      "ರಾಕೆಟ್‌ಗಳು",
+      "ಟ್ಯಾಂಕ್‌ಗಳು",
+      "ಫಿರಂಗಿಗಳು",
+      "ಜಲಂತರ್ಗಾಮಿಗಳು"
+    ],
+    "correctAnswerEnglish": "Rockets",
+    "correctAnswerKannada": "ರಾಕೆಟ್‌ಗಳು"
+  },
+  {
+    "heroName": "Tipu Sultan",
+    "questionEnglish": "In which war did Tipu Sultan die fighting the British?",
+    "questionKannada": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್ ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಹೋರಾಡುತ್ತಾ ಯಾವ ಯುದ್ಧದಲ್ಲಿ ಮರಣ ಹೊಂದಿದರು?",
+    "optionsEnglish": [
+      "Fourth Anglo-Mysore War",
+      "Third Anglo-Mysore War",
+      "Battle of Plassey",
+      "Battle of Buxar"
+    ],
+    "optionsKannada": [
+      "ನಾಲ್ಕನೇ ಆಂಗ್ಲೋ-ಮೈಸೂರು ಯುದ್ಧ",
+      "ಮೂರನೇ ಆಂಗ್ಲೋ-ಮೈಸೂರು ಯುದ್ಧ",
+      "ಪ್ಲಾಸಿ ಕದನ",
+      "ಬಕ್ಸರ್ ಕದನ"
+    ],
+    "correctAnswerEnglish": "Fourth Anglo-Mysore War",
+    "correctAnswerKannada": "ನಾಲ್ಕನೇ ಆಂಗ್ಲೋ-ಮೈಸೂರು ಯುದ್ಧ"
+  },
+  {
+    "heroName": "Nalwadi Krishnaraja Wadiyar",
+    "questionEnglish": "Who was called 'Rajarishi' by Mahatma Gandhi?",
+    "questionKannada": "ಮಹಾತ್ಮ ಗಾಂಧೀಜಿಯವರಿಂದ 'ರಾಜರ್ಷಿ' ಎಂದು ಕರೆಸಿಕೊಂಡವರು ಯಾರು?",
+    "optionsEnglish": [
+      "Nalwadi Krishnaraja Wadiyar",
+      "Chamaraja Wadiyar",
+      "Jayachamarajendra Wadiyar",
+      "Kanthirava Narasaraja Wadiyar"
+    ],
+    "optionsKannada": [
+      "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರ್",
+      "ಚಾಮರಾಜ ಒಡೆಯರ್",
+      "ಜಯಚಾಮರಾಜೇಂದ್ರ ಒಡೆಯರ್",
+      "ಕಂಠೀರವ ನರಸರಾಜ ಒಡೆಯರ್"
+    ],
+    "correctAnswerEnglish": "Nalwadi Krishnaraja Wadiyar",
+    "correctAnswerKannada": "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರ್"
+  },
+  {
+    "heroName": "Nalwadi Krishnaraja Wadiyar",
+    "questionEnglish": "Which famous dam was built during Nalwadi Krishnaraja Wadiyar's reign?",
+    "questionKannada": "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯ ಅವರ ಕಾಲದಲ್ಲಿ ಯಾವ ಪ್ರಸಿದ್ಧ ಅಣೆಕಟ್ಟು ನಿರ್ಮಿಸಲಾಯಿತು?",
+    "optionsEnglish": [
+      "Krishna Raja Sagara (KRS)",
+      "Tungabhadra Dam",
+      "Almatti Dam",
+      "Supo Dam"
+    ],
+    "optionsKannada": [
+      "ಕೃಷ್ಣರಾಜ ಸಾಗರ (ಕೆಆರ್ ಎಸ್)",
+      "ತುಂಗಭದ್ರಾ ಅಣೆಕಟ್ಟು",
+      "ಆಲಮಟ್ಟಿ ಅಣೆಕಟ್ಟು",
+      "ಸೂಪಾ ಅಣೆಕಟ್ಟು"
+    ],
+    "correctAnswerEnglish": "Krishna Raja Sagara (KRS)",
+    "correctAnswerKannada": "ಕೃಷ್ಣರಾಜ ಸಾಗರ (ಕೆಆರ್ ಎಸ್)"
+  },
+  {
+    "heroName": "Nalwadi Krishnaraja Wadiyar",
+    "questionEnglish": "Which institution was established in 1916 by Nalwadi Krishnaraja Wadiyar?",
+    "questionKannada": "1916 ರಲ್ಲಿ ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರು ಯಾವ ಸಂಸ್ಥೆಯನ್ನು ಸ್ಥಾಪಿಸಿದರು?",
+    "optionsEnglish": [
+      "University of Mysore",
+      "Indian Institute of Science",
+      "Central College",
+      "National College"
+    ],
+    "optionsKannada": [
+      "ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ",
+      "ಇಂಡಿಯನ್ ಇನ್‌ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಸೈನ್ಸ್",
+      "ಸೆಂಟ್ರಲ್ ಕಾಲೇಜ್",
+      "ನ್ಯಾಷನಲ್ ಕಾಲೇಜ್"
+    ],
+    "correctAnswerEnglish": "University of Mysore",
+    "correctAnswerKannada": "ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ"
+  },
+  {
+    "heroName": "Kempegowda I",
+    "questionEnglish": "Who is known as the founder of Bengaluru?",
+    "questionKannada": "ಬೆಂಗಳೂರಿನ ಸಂಸ್ಥಾಪಕರು ಎಂದು ಯಾರನ್ನು ಕರೆಯುತ್ತಾರೆ?",
+    "optionsEnglish": [
+      "Kempegowda I",
+      "Hyder Ali",
+      "Tipu Sultan",
+      "Chikka Devaraja Wadiyar"
+    ],
+    "optionsKannada": [
+      "ಒಂದನೇ ಕೆಂಪೇಗೌಡ",
+      "ಹೈದರ್ ಅಲಿ",
+      "ಟಿಪ್ಪು ಸುಲ್ತಾನ್",
+      "ಚಿಕ್ಕ ದೇವರಾಜ ಒಡೆಯರ್"
+    ],
+    "correctAnswerEnglish": "Kempegowda I",
+    "correctAnswerKannada": "ಒಂದನೇ ಕೆಂಪೇಗೌಡ"
+  },
+  {
+    "heroName": "Kempegowda I",
+    "questionEnglish": "How many watchtowers did Kempegowda build to mark the limits of Bengaluru?",
+    "questionKannada": "ಬೆಂಗಳೂರಿನ ಗಡಿಯನ್ನು ಗುರುತಿಸಲು ಕೆಂಪೇಗೌಡರು ಎಷ್ಟು ಕಾವಲು ಗೋಪುರಗಳನ್ನು ನಿರ್ಮಿಸಿದರು?",
+    "optionsEnglish": [
+      "Four",
+      "Three",
+      "Six",
+      "Eight"
+    ],
+    "optionsKannada": [
+      "ನಾಲ್ಕು",
+      "ಮೂರು",
+      "ಆರು",
+      "ಎಂಟು"
+    ],
+    "correctAnswerEnglish": "Four",
+    "correctAnswerKannada": "ನಾಲ್ಕು"
+  },
+  {
+    "heroName": "Kempegowda I",
+    "questionEnglish": "Which deity's temple at Basavanagudi was built by Kempegowda?",
+    "questionKannada": "ಬಸವನಗುಡಿಯಲ್ಲಿರುವ ಯಾವ ದೇವರ ದೇವಸ್ಥಾನವನ್ನು ಕೆಂಪೇಗೌಡರು ನಿರ್ಮಿಸಿದರು?",
+    "optionsEnglish": [
+      "Nandi (Bull)",
+      "Ganesha",
+      "Shiva",
+      "Vishnu"
+    ],
+    "optionsKannada": [
+      "ನಂದಿ (ಬಸವಣ್ಣ)",
+      "ಗಣೇಶ",
+      "ಶಿವ",
+      "ವಿಷ್ಣು"
+    ],
+    "correctAnswerEnglish": "Nandi (Bull)",
+    "correctAnswerKannada": "ನಂದಿ (ಬಸವಣ್ಣ)"
+  },
+  {
+    "heroName": "Sir M. Visvesvaraya",
+    "questionEnglish": "Whose birthday is celebrated as 'Engineers' Day' in India?",
+    "questionKannada": "ಭಾರತದಲ್ಲಿ ಯಾರ ಜನ್ಮದಿನವನ್ನು 'ಇಂಜಿನಿಯರ್‌ಗಳ ದಿನ'ವಾಗಿ ಆಚರಿಸಲಾಗುತ್ತದೆ?",
+    "optionsEnglish": [
+      "Sir M. Visvesvaraya",
+      "Vikram Sarabhai",
+      "Homi J. Bhabha",
+      "Satish Dhawan"
+    ],
+    "optionsKannada": [
+      "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ",
+      "ವಿಕ್ರಮ್ ಸಾರಾಭಾಯ್",
+      "ಹೋಮಿ ಜೆ. ಬಾಬಾ",
+      "ಸತೀಶ್ ಧವನ್"
+    ],
+    "correctAnswerEnglish": "Sir M. Visvesvaraya",
+    "correctAnswerKannada": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ"
+  },
+  {
+    "heroName": "Sir M. Visvesvaraya",
+    "questionEnglish": "Sir M. Visvesvaraya received which highest civilian award?",
+    "questionKannada": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ ಅವರಿಗೆ ಯಾವ ಅತ್ಯುನ್ನತ ನಾಗರಿಕ ಪ್ರಶಸ್ತಿ ಲಭಿಸಿದೆ?",
+    "optionsEnglish": [
+      "Bharat Ratna",
+      "Padma Vibhushan",
+      "Padma Bhushan",
+      "Jnanpith"
+    ],
+    "optionsKannada": [
+      "ಭಾರತ ರತ್ನ",
+      "ಪದ್ಮ ವಿಭೂಷಣ",
+      "ಪದ್ಮ ಭೂಷಣ",
+      "ಜ್ಞಾನಪೀಠ"
+    ],
+    "correctAnswerEnglish": "Bharat Ratna",
+    "correctAnswerKannada": "ಭಾರತ ರತ್ನ"
+  },
+  {
+    "heroName": "Sir M. Visvesvaraya",
+    "questionEnglish": "Which major bank did Sir M. Visvesvaraya help establish in 1913?",
+    "questionKannada": "ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯ ಅವರು 1913 ರಲ್ಲಿ ಯಾವ ಪ್ರಮುಖ ಬ್ಯಾಂಕನ್ನು ಸ್ಥಾಪಿಸಲು ಸಹಾಯ ಮಾಡಿದರು?",
+    "optionsEnglish": [
+      "State Bank of Mysore",
+      "Canara Bank",
+      "Vijaya Bank",
+      "Corporation Bank"
+    ],
+    "optionsKannada": [
+      "ಸ್ಟೇಟ್ ಬ್ಯಾಂಕ್ ಆಫ್ ಮೈಸೂರು",
+      "ಕೆನರಾ ಬ್ಯಾಂಕ್",
+      "ವಿಜಯಾ ಬ್ಯಾಂಕ್",
+      "ಕಾರ್ಪೊರೇಷನ್ ಬ್ಯಾಂಕ್"
+    ],
+    "correctAnswerEnglish": "State Bank of Mysore",
+    "correctAnswerKannada": "ಸ್ಟೇಟ್ ಬ್ಯಾಂಕ್ ಆಫ್ ಮೈಸೂರು"
+  },
+  {
+    "heroName": "Onake Obavva",
+    "questionEnglish": "Which weapon did Onake Obavva use to fight Hyder Ali's soldiers?",
+    "questionKannada": "ಹೈದರ್ ಅಲಿಯ ಸೈನಿಕರನ್ನು ಎದುರಿಸಲು ಓಬವ್ವ ಯಾವ ಆಯುಧವನ್ನು ಬಳಸಿದರು?",
+    "optionsEnglish": [
+      "Pestle (Onake)",
+      "Sword",
+      "Spear",
+      "Bow and Arrow"
+    ],
+    "optionsKannada": [
+      "ಒನಕೆ",
+      "ಕತ್ತಿ",
+      "ಈಟಿ",
+      "ಬಿಲ್ಲು ಮತ್ತು ಬಾಣ"
+    ],
+    "correctAnswerEnglish": "Pestle (Onake)",
+    "correctAnswerKannada": "ಒನಕೆ"
+  },
+  {
+    "heroName": "Onake Obavva",
+    "questionEnglish": "In which fort did Onake Obavva perform her heroic act?",
+    "questionKannada": "ಓಬವ್ವ ಯಾವ ಕೋಟೆಯಲ್ಲಿ ತನ್ನ ಸಾಹಸವನ್ನು ಪ್ರದರ್ಶಿಸಿದರು?",
+    "optionsEnglish": [
+      "Chitradurga Fort",
+      "Belagavi Fort",
+      "Mysore Palace",
+      "Bidar Fort"
+    ],
+    "optionsKannada": [
+      "ಚಿತ್ರದುರ್ಗ ಕೋಟೆ",
+      "ಬೆಂಗಳೂರು ಕೋಟೆ",
+      "ಮೈಸೂರು ಅರಮನೆ",
+      "ಬೀದರ್ ಕೋಟೆ"
+    ],
+    "correctAnswerEnglish": "Chitradurga Fort",
+    "correctAnswerKannada": "ಚಿತ್ರದುರ್ಗ ಕೋಟೆ"
+  },
+  {
+    "heroName": "Onake Obavva",
+    "questionEnglish": "What was the name of Onake Obavva's husband, who was a guard of the fort?",
+    "questionKannada": "ಕೋಟೆಯ ಕಾವಲುಗಾರರಾಗಿದ್ದ ಓಬವ್ವನ ಪತಿಯ ಹೆಸರೇನು?",
+    "optionsEnglish": [
+      "Kahale Mudda",
+      "Mudda Hanuma",
+      "Mada Nayaka",
+      "Bheema Rao"
+    ],
+    "optionsKannada": [
+      "ಕಹಳೆ ಮುದ್ದ",
+      "ಮುದ್ದ ಹನುಮ",
+      "ಮದ ನಾಯಕ",
+      "ಭೀಮರಾವ್"
+    ],
+    "correctAnswerEnglish": "Kahale Mudda",
+    "correctAnswerKannada": "ಕಹಳೆ ಮುದ್ದ"
+  },
+  {
+    "heroName": "Madakari Nayaka",
+    "questionEnglish": "Madakari Nayaka was the ruler of which region?",
+    "questionKannada": "ಮದಕರಿ ನಾಯಕರು ಯಾವ ಭಾಗದ ಅರಸರಾಗಿದ್ದರು?",
+    "optionsEnglish": [
+      "Chitradurga",
+      "Bellary",
+      "Raichur",
+      "Koppal"
+    ],
+    "optionsKannada": [
+      "ಚಿತ್ರದುರ್ಗ",
+      "ಬಳ್ಳಾರಿ",
+      "ರಾಯಚೂರು",
+      "ಕೊಪ್ಪಳ"
+    ],
+    "correctAnswerEnglish": "Chitradurga",
+    "correctAnswerKannada": "ಚಿತ್ರದುರ್ಗ"
+  },
+  {
+    "heroName": "Madakari Nayaka",
+    "questionEnglish": "Against whose forces did Madakari Nayaka defend the Chitradurga fort?",
+    "questionKannada": "ಮದಕರಿ ನಾಯಕರು ಯಾರ ಸೈನ್ಯದ ವಿರುದ್ಧ ಚಿತ್ರದುರ್ಗ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಿದರು?",
+    "optionsEnglish": [
+      "Hyder Ali",
+      "British",
+      "Portuguese",
+      "Mughals"
+    ],
+    "optionsKannada": [
+      "ಹೈದರ್ ಅಲಿ",
+      "ಬ್ರಿಟಿಷರು",
+      "ಪೋರ್ಚುಗೀಸರು",
+      "ಮುಘಲರು"
+    ],
+    "correctAnswerEnglish": "Hyder Ali",
+    "correctAnswerKannada": "ಹೈದರ್ ಅಲಿ"
+  },
+  {
+    "heroName": "Madakari Nayaka",
+    "questionEnglish": "Which titles were held by the Nayakas of Chitradurga?",
+    "questionKannada": "ಚಿತ್ರದುರ್ಗದ ನಾಯಕರು ಯಾವ ಬಿರುದುಗಳನ್ನು ಹೊಂದಿದ್ದರು?",
+    "optionsEnglish": [
+      "Baramageri Madakari Nayaka",
+      "Raja",
+      "Sultan",
+      "Chakravarthy"
+    ],
+    "optionsKannada": [
+      "ಭರಮಗೇರಿ ಮದಕರಿ ನಾಯಕ",
+      "ರಾಜ",
+      "ಸುಲ್ತಾನ್",
+      "ಚಕ್ರವರ್ತಿ"
+    ],
+    "correctAnswerEnglish": "Baramageri Madakari Nayaka",
+    "correctAnswerKannada": "ಭರಮಗೇರಿ ಮದಕರಿ ನಾಯಕ"
+  },
+  {
+    "heroName": "Rani Abbakka",
+    "questionEnglish": "Against which foreign power did Rani Abbakka fight multiple wars?",
+    "questionKannada": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಯಾವ ವಿದೇಶಿ ಶಕ್ತಿಯ ವಿರುದ್ಧ ಅನೇಕ ಯುದ್ಧಗಳನ್ನು ಮಾಡಿದರು?",
+    "optionsEnglish": [
+      "Portuguese",
+      "British",
+      "French",
+      "Dutch"
+    ],
+    "optionsKannada": [
+      "ಪೋರ್ಚುಗೀಸರು",
+      "ಬ್ರಿಟಿಷರು",
+      "ಫ್ರೆಂಚ್",
+      "ಡಚ್ಚರು"
+    ],
+    "correctAnswerEnglish": "Portuguese",
+    "correctAnswerKannada": "ಪೋರ್ಚುಗೀಸರು"
+  },
+  {
+    "heroName": "Rani Abbakka",
+    "questionEnglish": "In which coastal town was Rani Abbakka's palace located?",
+    "questionKannada": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಅವರ ಅರಮನೆ ಯಾವ ಕರಾವಳಿ ಪಟ್ಟಣದಲ್ಲಿತ್ತು?",
+    "optionsEnglish": [
+      "Ullal",
+      "Mangalore",
+      "Malpe",
+      "Murudeshwara"
+    ],
+    "optionsKannada": [
+      "ಉಳ್ಳಾಲ",
+      "ಮಂಗಳೂರು",
+      "ಮಲ್ಪೆ",
+      "ಮುರುಡೇಶ್ವರ"
+    ],
+    "correctAnswerEnglish": "Ullal",
+    "correctAnswerKannada": "ಉಳ್ಳಾಲ"
+  },
+  {
+    "heroName": "Rani Abbakka",
+    "questionEnglish": "What was the name of Rani Abbakka's dynasty?",
+    "questionKannada": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಯಾವ ರಾಜವಂಶಕ್ಕೆ ಸೇರಿದವರು?",
+    "optionsEnglish": [
+      "Chowta",
+      "Kadamba",
+      "Alupa",
+      "Ganga"
+    ],
+    "optionsKannada": [
+      "ಚೌಟ",
+      "ಕದಂಬ",
+      "ಆಲುಪ",
+      "ಗಂಗ"
+    ],
+    "correctAnswerEnglish": "Chowta",
+    "correctAnswerKannada": "ಚೌಟ"
+  },
+  {
+    "heroName": "Koti Chennaya",
+    "questionEnglish": "Koti and Chennaya were twin heroes from which region?",
+    "questionKannada": "ಕೋಟಿ ಮತ್ತು ಚೆನ್ನಯ್ಯ ಯಾವ ಭಾಗದ ಅವಳಿ ವೀರರು?",
+    "optionsEnglish": [
+      "Tulu Nadu",
+      "Kodagu",
+      "Bayaluseeme",
+      "Malnad"
+    ],
+    "optionsKannada": [
+      "ತುಳುನಾಡು",
+      "ಕೊಡಗು",
+      "ಬಯಲುಸೀಮೆ",
+      "ಮಲೆನಾಡು"
+    ],
+    "correctAnswerEnglish": "Tulu Nadu",
+    "correctAnswerKannada": "ತುಳುನಾಡು"
+  },
+  {
+    "heroName": "Koti Chennaya",
+    "questionEnglish": "In which temple complex are Koti and Chennaya often worshipped?",
+    "questionKannada": "ಕೋಟಿ ಮತ್ತು ಚೆನ್ನಯ್ಯ ಅವರಿಗಾಗಿ ಇರುವ ಪ್ರಸಿದ್ಧ ದೇವಸ್ಥಾನ ಕ್ಷೇತ್ರ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Garodi",
+      "Gudi",
+      "Basadi",
+      "Devalaya"
+    ],
+    "optionsKannada": [
+      "ಗರೋಡಿ",
+      "ಗುಡಿ",
+      "ಬಸದಿ",
+      "ದೇವಾಲಯ"
+    ],
+    "correctAnswerEnglish": "Garodi",
+    "correctAnswerKannada": "ಗರೋಡಿ"
+  },
+  {
+    "heroName": "Koti Chennaya",
+    "questionEnglish": "What are Koti and Chennaya known for in Tulu culture?",
+    "questionKannada": "ತುಳು ಸಂಸ್ಕೃತಿಯಲ್ಲಿ ಕೋಟಿ ಮತ್ತು ಚೆನ್ನಯ್ಯ ಯಾವುದಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿದ್ದಾರೆ?",
+    "optionsEnglish": [
+      "Bravery and Social Justice",
+      "Commerce",
+      "Poetry",
+      "Cooking"
+    ],
+    "optionsKannada": [
+      "ಶೌರ್ಯ ಮತ್ತು ಸಾಮಾಜಿಕ ನ್ಯಾಯ",
+      "ವಾಣಿಜ್ಯ",
+      "ಕವಿತೆ",
+      "ಅಡುಗೆ"
+    ],
+    "correctAnswerEnglish": "Bravery and Social Justice",
+    "correctAnswerKannada": "ಶೌರ್ಯ ಮತ್ತು ಸಾಮಾಜಿಕ ನ್ಯಾಯ"
+  },
+  {
+    "heroName": "Aluru Venkata Rao",
+    "questionEnglish": "Who is known as the 'Kannada Kula Purohita'?",
+    "questionKannada": "'ಕನ್ನಡ ಕುಲಪುರೋಹಿತ' ಎಂದು ಯಾರನ್ನು ಕರೆಯುತ್ತಾರೆ?",
+    "optionsEnglish": [
+      "Aluru Venkata Rao",
+      "Kuvempu",
+      "Bendre",
+      "B.M. Sri"
+    ],
+    "optionsKannada": [
+      "ಆಲೂರು ವೆಂಕಟರಾವ್",
+      "ಕುವೆಂಪು",
+      "ಬೇಂದ್ರೆ",
+      "ಬಿ.ಎಂ. ಶ್ರೀ"
+    ],
+    "correctAnswerEnglish": "Aluru Venkata Rao",
+    "correctAnswerKannada": "ಆಲೂರು ವೆಂಕಟರಾವ್"
+  },
+  {
+    "heroName": "Aluru Venkata Rao",
+    "questionEnglish": "Which book by Aluru Venkata Rao ignited the Kannada unification movement?",
+    "questionKannada": "ಕನ್ನಡ ಏಕೀಕರಣಕ್ಕೆ ಪ್ರೇರಣೆ ನೀಡಿದ ಆಲೂರು ವೆಂಕಟರಾಯರ ಪುಸ್ತಕ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Karnataka Gatha Vaibhava",
+      "Jaya Bharata",
+      "Namma Nadu",
+      "Kannada Siri"
+    ],
+    "optionsKannada": [
+      "ಕರ್ನಾಟಕ ಗತ ವೈಭವ",
+      "ಜಯ ಭಾರತ",
+      "ನಮ್ಮ ನಾಡು",
+      "ಕನ್ನಡ ಸಿರಿ"
+    ],
+    "correctAnswerEnglish": "Karnataka Gatha Vaibhava",
+    "correctAnswerKannada": "ಕರ್ನಾಟಕ ಗತ ವೈಭವ"
+  },
+  {
+    "heroName": "Aluru Venkata Rao",
+    "questionEnglish": "Aluru Venkata Rao was the key figure in establishing which academy?",
+    "questionKannada": "ಆಲೂರು ವೆಂಕಟರಾಯರು ಯಾವ ಸಂಘಟನೆಯ ಸ್ಥಾಪನೆಯಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿದ್ದರು?",
+    "optionsEnglish": [
+      "Kannada Sahitya Parishat",
+      "Sahitya Academy",
+      "Lalit Kala Academy",
+      "Music Academy"
+    ],
+    "optionsKannada": [
+      "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು",
+      "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+      "ಲಲಿತ ಕಲಾ ಅಕಾಡೆಮಿ",
+      "ಸಂಗೀತ ಅಕಾಡೆಮಿ"
+    ],
+    "correctAnswerEnglish": "Kannada Sahitya Parishat",
+    "correctAnswerKannada": "ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತು"
+  },
+  {
+    "heroName": "Da Ra Bendre",
+    "questionEnglish": "Da Ra Bendre's collection of poems which won the Jnanpith Award is?",
+    "questionKannada": "ದ.ರಾ. ಬೇಂದ್ರೆಯವರ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ವಿಜೇತ ಕವನ ಸಂಕಲನ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Naku Thanthi",
+      "Gari",
+      "Aralu Maralu",
+      "Sakhigeta"
+    ],
+    "optionsKannada": [
+      "ನಾಕು ತಂತಿ",
+      "ಗರಿ",
+      "ಅರಳು ಮರಳು",
+      "ಸಖೀಗೀತ"
+    ],
+    "correctAnswerEnglish": "Naku Thanthi",
+    "correctAnswerKannada": "ನಾಕು ತಂತಿ"
+  },
+  {
+    "heroName": "Da Ra Bendre",
+    "questionEnglish": "What was the pen name of Da Ra Bendre?",
+    "questionKannada": "ದ.ರಾ. ಬೇಂದ್ರೆಯವರ ಕಾವ್ಯನಾಮ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Ambikatanayadatta",
+      "Vinayaka",
+      "Kuvempu",
+      "Beechi"
+    ],
+    "optionsKannada": [
+      "ಅಂಬಿಕಾತನಯದತ್ತ",
+      "ವಿನಾಯಕ",
+      "ಕುವೆಂಪು",
+      "ಬೀಚಿ"
+    ],
+    "correctAnswerEnglish": "Ambikatanayadatta",
+    "correctAnswerKannada": "ಅಂಬಿಕಾತನಯದತ್ತ"
+  },
+  {
+    "heroName": "Da Ra Bendre",
+    "questionEnglish": "In which city did Da Ra Bendre spend most of his life?",
+    "questionKannada": "ದ.ರಾ. ಬೇಂದ್ರೆಯವರು ತಮ್ಮ ಜೀವನದ ಬಹುಭಾಗವನ್ನು ಯಾವ ನಗರದಲ್ಲಿ ಕಳೆದರು?",
+    "optionsEnglish": [
+      "Dharwad",
+      "Mysore",
+      "Bangalore",
+      "Shimoga"
+    ],
+    "optionsKannada": [
+      "ಧಾರವಾಡ",
+      "ಮೈಸೂರು",
+      "ಬೆಂಗಳೂರು",
+      "ಶಿವಮೊಗ್ಗ"
+    ],
+    "correctAnswerEnglish": "Dharwad",
+    "correctAnswerKannada": "ಧಾರವಾಡ"
+  },
+  {
+    "heroName": "Mailara Mahadevappa",
+    "questionEnglish": "Mailara Mahadevappa was a freedom fighter from which district?",
+    "questionKannada": "ಮೈಲಾರ ಮಹದೇವಪ್ಪ ಯಾವ ಜಿಲ್ಲೆಯ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರು?",
+    "optionsEnglish": [
+      "Haveri",
+      "Dharwad",
+      "Gadag",
+      "Belagavi"
+    ],
+    "optionsKannada": [
+      "ಹಾವೇರಿ",
+      "ಧಾರವಾಡ",
+      "ಗದಗ",
+      "ಬೆಳಗಾವಿ"
+    ],
+    "correctAnswerEnglish": "Haveri",
+    "correctAnswerKannada": "ಹಾವೇರಿ"
+  },
+  {
+    "heroName": "Mailara Mahadevappa",
+    "questionEnglish": "Mailara Mahadevappa is known for his role in which movement?",
+    "questionKannada": "ಮೈಲಾರ ಮಹದೇವಪ್ಪ ಯಾವ ಚಳವಳಿಯಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿದ್ದರು?",
+    "optionsEnglish": [
+      "Quit India Movement",
+      "Salt Satyagraha",
+      "Non-Cooperation Movement",
+      "Khilafat Movement"
+    ],
+    "optionsKannada": [
+      "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳವಳಿ",
+      "ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹ",
+      "ಅಸಹಕಾರ ಚಳವಳಿ",
+      "ಖಿಲಾಫತ್ ಚಳವಳಿ"
+    ],
+    "correctAnswerEnglish": "Quit India Movement",
+    "correctAnswerKannada": "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳವಳಿ"
+  },
+  {
+    "heroName": "Mailara Mahadevappa",
+    "questionEnglish": "Mailara Mahadevappa is often compared to which national hero for his bravery?",
+    "questionKannada": "ಮೈಲಾರ ಮಹದೇವಪ್ಪನವರನ್ನು ಅವರ ಶೌರ್ಯಕ್ಕಾಗಿ ಯಾವ ರಾಷ್ಟ್ರೀಯ ನಾಯಕನಿಗೆ ಹೋಲಿಸಲಾಗುತ್ತದೆ?",
+    "optionsEnglish": [
+      "Bhagat Singh",
+      "Subhash Chandra Bose",
+      "Chandrasekhar Azad",
+      "Lala Lajpat Rai"
+    ],
+    "optionsKannada": [
+      "ಭಗತ್ ಸಿಂಗ್",
+      "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+      "ಚಂದ್ರಶೇಖರ್ ಆಜಾದ್",
+      "ಲಾಲಾ ಲಜಪತ್ ರಾಯ್"
+    ],
+    "correctAnswerEnglish": "Bhagat Singh",
+    "correctAnswerKannada": "ಭಗತ್ ಸಿಂಗ್"
+  },
+  {
+    "heroName": "Kanakadasa",
+    "questionEnglish": "Kanakadasa was a famous saint and composer of which movement?",
+    "questionKannada": "ಕನಕದಾಸರು ಯಾವ ಪಂಥದ ಪ್ರಸಿದ್ಧ ಹರಿದಾಸರು ಮತ್ತು ಕವಿಗಳು?",
+    "optionsEnglish": [
+      "Bhakti Movement (Haridasa)",
+      "Sufi Movement",
+      "Veerashaiva Movement",
+      "Navodaya Movement"
+    ],
+    "optionsKannada": [
+      "ಭಕ್ತಿ ಪಂಥ (ಹರಿದಾಸ)",
+      "ಸೂಫಿ ಪಂಥ",
+      "ವೀರಶೈವ ಪಂಥ",
+      "ನವೋದಯ ಪಂಥ"
+    ],
+    "correctAnswerEnglish": "Bhakti Movement (Haridasa)",
+    "correctAnswerKannada": "ಭಕ್ತಿ ಪಂಥ (ಹರಿದಾಸ)"
+  },
+  {
+    "heroName": "Kanakadasa",
+    "questionEnglish": "Which famous temple in Udupi has a window named after Kanakadasa?",
+    "questionKannada": "ಉಡುಪಿಯ ಯಾವ ಪ್ರಸಿದ್ಧ ದೇವಸ್ಥಾನದಲ್ಲಿ ಕನಕದಾಸರ ಹೆಸರಿನ ಕಿಟಕಿ (ಕಿಂಡಿ) ಇದೆ?",
+    "optionsEnglish": [
+      "Sri Krishna Temple",
+      "Anantheshwara Temple",
+      "Chandramouleshwara Temple",
+      "Mookambika Temple"
+    ],
+    "optionsKannada": [
+      "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ",
+      "ಅನಂತೇಶ್ವರ ದೇವಸ್ಥಾನ",
+      "ಚಂದಮೌಳೇಶ್ವರ ದೇವಸ್ಥಾನ",
+      "ಮೂಕಾಂಬಿಕಾ ದೇವಸ್ಥಾನ"
+    ],
+    "correctAnswerEnglish": "Sri Krishna Temple",
+    "correctAnswerKannada": "ಶ್ರೀ ಕೃಷ್ಣ ಮಠ"
+  },
+  {
+    "heroName": "Kanakadasa",
+    "questionEnglish": "What was the original name of Kanakadasa before he became a saint?",
+    "questionKannada": "ಸಂತರಾಗುವ ಮೊದಲು ಕನಕದಾಸರ ಮೂಲ ಹೆಸರೇನು?",
+    "optionsEnglish": [
+      "Thimmappa Nayaka",
+      "Purandara Nayaka",
+      "Madhava Nayaka",
+      "Vittala Nayaka"
+    ],
+    "optionsKannada": [
+      "ತಿಮ್ಮಪ್ಪ ನಾಯಕ",
+      "ಪುರಂದರ ನಾಯಕ",
+      "ಮಾಧವ ನಾಯಕ",
+      "ವಿಠಲ ನಾಯಕ"
+    ],
+    "correctAnswerEnglish": "Thimmappa Nayaka",
+    "correctAnswerKannada": "ತಿಮ್ಮಪ್ಪ ನಾಯಕ"
+  },
+  {
+    "heroName": "Field Marshal K.M. Cariappa",
+    "questionEnglish": "Who was the first Indian Commander-in-Chief of the Indian Army?",
+    "questionKannada": "ಭಾರತೀಯ ಸೇನೆಯ ಮೊದಲ ಭಾರತೀಯ ಕಮಾಂಡರ್ ಇನ್ ಚೀಫ್ ಯಾರು?",
+    "optionsEnglish": [
+      "Field Marshal K.M. Cariappa",
+      "General K.S. Thimayya",
+      "Field Marshal Sam Manekshaw",
+      "Admiral Katari"
+    ],
+    "optionsKannada": [
+      "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಕೆ.ಎಂ. ಕಾರ್ಯಪ್ಪ",
+      "ಜನರಲ್ ಕೆ.ಎಸ್. ತಿಮ್ಮಯ್ಯ",
+      "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಸ್ಯಾಮ್ ಮಾನೆಕ್ ಶಾ",
+      "ಅಡ್ಮಿರಲ್ ಕಟಾರಿ"
+    ],
+    "correctAnswerEnglish": "Field Marshal K.M. Cariappa",
+    "correctAnswerKannada": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಕೆ.ಎಂ. ಕಾರ್ಯಪ್ಪ"
+  },
+  {
+    "heroName": "Field Marshal K.M. Cariappa",
+    "questionEnglish": "Army Day in India is celebrated on January 15 to mark the day took over as C-in-C?",
+    "questionKannada": "ಯಾರು ಕಮಾಂಡರ್ ಇನ್ ಚೀಫ್ ಆಗಿ ಅಧಿಕಾರ ಸ್ವೀಕರಿಸಿದ ನೆನಪಿಗಾಗಿ ಜನವರಿ 15 ರಂದು ಸೇನಾ ದಿನವನ್ನು ಆಚರಿಸಲಾಗುತ್ತದೆ?",
+    "optionsEnglish": [
+      "K.M. Cariappa",
+      "Bipin Rawat",
+      "Sam Manekshaw",
+      "Arjan Singh"
+    ],
+    "optionsKannada": [
+      "ಕೆ.ಎಂ. ಕಾರ್ಯಪ್ಪ",
+      "ಬಿಪಿನ್ ರಾವತ್",
+      "ಸ್ಯಾಮ್ ಮಾನೆಕ್ ಶಾ",
+      "ಅರ್ಜನ್ ಸಿಂಗ್"
+    ],
+    "correctAnswerEnglish": "K.M. Cariappa",
+    "correctAnswerKannada": "ಕೆ.ಎಂ. ಕಾರ್ಯಪ್ಪ"
+  },
+  {
+    "heroName": "Field Marshal K.M. Cariappa",
+    "questionEnglish": "Which district in Karnataka is the birthplace of Field Marshal K.M. Cariappa?",
+    "questionKannada": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಕೆ.ಎಂ. ಕಾರ್ಯಪ್ಪ ಹುಟ್ಟಿದ ಜಿಲ್ಲೆ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Kodagu",
+      "Chikkamagaluru",
+      "Hassan",
+      "Mysuru"
+    ],
+    "optionsKannada": [
+      "ಕೊಡಗು",
+      "ಚಿಕ್ಕಮಗಳೂರು",
+      "ಹಾಸನ",
+      "ಮೈಸೂರು"
+    ],
+    "correctAnswerEnglish": "Kodagu",
+    "correctAnswerKannada": "ಕೊಡಗು"
+  },
+  {
+    "heroName": "General K.S. Thimayya",
+    "questionEnglish": "General K.S. Thimayya served as the Chief of Army Staff during which years?",
+    "questionKannada": "ಜನರಲ್ ಕೆ.ಎಸ್. ತಿಮ್ಮಯ್ಯ ಅವರು ಯಾವ ವರ್ಷಗಳಲ್ಲಿ ಭೂಸೇನಾ ಮುಖ್ಯಸ್ಥರಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿದರು?",
+    "optionsEnglish": [
+      "1957-1961",
+      "1947-1950",
+      "1962-1965",
+      "1971-1975"
+    ],
+    "optionsKannada": [
+      "1957-1961",
+      "1947-1950",
+      "1962-1965",
+      "1971-1975"
+    ],
+    "correctAnswerEnglish": "1957-1961",
+    "correctAnswerKannada": "1957-1961"
+  },
+  {
+    "heroName": "General K.S. Thimayya",
+    "questionEnglish": "General Thimayya was the commander of UN Peacekeeping forces in which country?",
+    "questionKannada": "ಜನರಲ್ ತಿಮ್ಮಯ್ಯ ಅವರು ಯಾವ ದೇಶದಲ್ಲಿ ವಿಶ್ವಸಂಸ್ಥೆಯ ಶಾಂತಿ ಪಾಲನಾ ಪಡೆಯ ಕಮಾಂಡರ್ ಆಗಿದ್ದರು?",
+    "optionsEnglish": [
+      "Cyprus",
+      "Korea",
+      "Vietnam",
+      "Congo"
+    ],
+    "optionsKannada": [
+      "ಸೈಪ್ರಸ್",
+      "ಕೊರಿಯಾ",
+      "ವಿಯೆಟ್ನಾಂ",
+      "ಕಾಂಗೋ"
+    ],
+    "correctAnswerEnglish": "Cyprus",
+    "correctAnswerKannada": "ಸೈಪ್ರಸ್"
+  },
+  {
+    "heroName": "General K.S. Thimayya",
+    "questionEnglish": "What is the name of General Thimayya's residence in Madikeri which is now a museum?",
+    "questionKannada": "ಮಡಿಕೇರಿಯಲ್ಲಿರುವ ಜನರಲ್ ತಿಮ್ಮಯ್ಯ ಅವರ ಮನೆಯ ಹೆಸರೇನು (ಈಗ ವಸ್ತುಸಂಗ್ರಹಾಲಯವಾಗಿದೆ)?",
+    "optionsEnglish": [
+      "Sunny Side",
+      "Rainy Villa",
+      "Mountain Top",
+      "Army House"
+    ],
+    "optionsKannada": [
+      "ಸನ್ನಿ ಸೈಡ್",
+      "ರೇನಿ ವಿಲ್ಲಾ",
+      "ಮೌಂಟನ್ ಟಾಪ್",
+      "ಆರ್ಮಿ ಹೌಸ್"
+    ],
+    "correctAnswerEnglish": "Sunny Side",
+    "correctAnswerKannada": "ಸನ್ನಿ ಸೈಡ್"
+  },
+  {
+    "heroName": "Kuvempu",
+    "questionEnglish": "Which of these is the state anthem of Karnataka, written by Kuvempu?",
+    "questionKannada": "ಕುವೆಂಪು ರಸಿದ ಕೆಳಕಂಡವುಗಳಲ್ಲಿ ಕರ್ನಾಟಕದ ನಾಡಗೀತೆ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Jaya Bharata Jananiya Tanujate",
+      "Udayavagali Namma Cheluva",
+      "Hachevu Kannadada Deepa",
+      "Nityotsava"
+    ],
+    "optionsKannada": [
+      "ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ",
+      "ಉದಯವಾಗಲಿ ನಮ್ಮ ಚೆಲುವ",
+      "ಹಚ್ಚೇವು ಕನ್ನಡದ ದೀಪ",
+      "ನಿತ್ಯೋತ್ಸವ"
+    ],
+    "correctAnswerEnglish": "Jaya Bharata Jananiya Tanujate",
+    "correctAnswerKannada": "ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ"
+  },
+  {
+    "heroName": "Kuvempu",
+    "questionEnglish": "Kuvempu was the first Kannada writer to receive which award?",
+    "questionKannada": "ಕುವೆಂಪು ಅವರು ಯಾವ ಪ್ರಶಸ್ತಿಯನ್ನು ಪಡೆದ ಮೊದಲ ಕನ್ನಡಿಗ ಸಾಹಿತಿ?",
+    "optionsEnglish": [
+      "Jnanpith Award",
+      "Sahitya Academy",
+      "Pamapa Award",
+      "Padma Vibhushan"
+    ],
+    "optionsKannada": [
+      "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ",
+      "ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ",
+      "ಪಂಪ ಪ್ರಶಸ್ತಿ",
+      "ಪದ್ಮ ವಿಭೂಷಣ"
+    ],
+    "correctAnswerEnglish": "Jnanpith Award",
+    "correctAnswerKannada": "ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ"
+  },
+  {
+    "heroName": "Kuvempu",
+    "questionEnglish": "Which of these epic works was written by Kuvempu?",
+    "questionKannada": "ಈ ಕೆಳಗಿನವುಗಳಲ್ಲಿ ಕುವೆಂಪು ಅವರು ರಚಿಸಿದ ಮಹಾಕಾವ್ಯ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Sri Ramayana Darshanam",
+      "Bharata Sindhu Rashmi",
+      "Ramadhanya Charite",
+      "Harishchandra Kavya"
+    ],
+    "optionsKannada": [
+      "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ",
+      "ಭಾರತ ಸಿಂಧು ರಶ್ಮಿ",
+      "ರಾಮಧಾನ್ಯ ಚರಿತೆ",
+      "ಹರಿಶ್ಚಂದ್ರ ಕಾವ್ಯ"
+    ],
+    "correctAnswerEnglish": "Sri Ramayana Darshanam",
+    "correctAnswerKannada": "ಶ್ರೀ ರಾಮಾಯಣ ದರ್ಶನಂ"
+  },
+  {
+    "heroName": "Keladi Chennamma",
+    "questionEnglish": "Keladi Chennamma provided refuge to which Maratha ruler?",
+    "questionKannada": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಯಾವ ಮರಾಠ ಅರಸನಿಗೆ ಆಶ್ರಯ ನೀಡಿದರು?",
+    "optionsEnglish": [
+      "Rajaram Chatrapati",
+      "Shivaji Maharaj",
+      "Sambhaji",
+      "Shahu Maharaj"
+    ],
+    "optionsKannada": [
+      "ರಾಜಾರಾಮ್ ಛತ್ರಪತಿ",
+      "ಶಿವಾಜಿ ಮಹಾರಾಜ್",
+      "ಸಂಭಾಜಿ",
+      "ಶಾಹು ಮಹಾರಾಜ್"
+    ],
+    "correctAnswerEnglish": "Rajaram Chatrapati",
+    "correctAnswerKannada": "ರಾಜಾರಾಮ್ ಛತ್ರಪತಿ"
+  },
+  {
+    "heroName": "Keladi Chennamma",
+    "questionEnglish": "Keladi Chennamma defied which Mughal Emperor to protect her guests?",
+    "questionKannada": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಯಾವ ಮೊಘಲ್ ಸುಲ್ತಾನನನ್ನು ಎದುರಿಸಿದರು?",
+    "optionsEnglish": [
+      "Aurangzeb",
+      "Akbar",
+      "Shah Jahan",
+      "Babur"
+    ],
+    "optionsKannada": [
+      "ಔರಂಗಜೇಬ್",
+      "ಅಕ್ಬರ್",
+      "ಷಾ ಒಳಗಡೆ",
+      "ಬಾಬರ್"
+    ],
+    "correctAnswerEnglish": "Aurangzeb",
+    "correctAnswerKannada": "ಔರಂಗಜೇಬ್"
+  },
+  {
+    "heroName": "Keladi Chennamma",
+    "questionEnglish": "In which district was the Keladi kingdom located?",
+    "questionKannada": "ಕೆಳದಿ ಸಂಸ್ಥಾನವು ಯಾವ ಜಿಲ್ಲೆಯಲ್ಲಿತ್ತು?",
+    "optionsEnglish": [
+      "Shivamogga",
+      "Uttara Kannada",
+      "Udupi",
+      "Hassan"
+    ],
+    "optionsKannada": [
+      "ಶಿವಮೊಗ್ಗ",
+      "ಉತ್ತರ ಕನ್ನಡ",
+      "ಉಡುಪಿ",
+      "ಹಾಸನ"
+    ],
+    "correctAnswerEnglish": "Shivamogga",
+    "correctAnswerKannada": "ಶಿವಮೊಗ್ಗ"
+  },
+  {
+    "heroName": "Sree Sree Shivakumara Swamiji",
+    "questionEnglish": "Who is known as the 'Walking God' (Nadedaduva Devaru)?",
+    "questionKannada": "'ನಡೆದಾಡುವ ದೇವರು' ಎಂದು ಯಾರನ್ನು ಕರೆಯುತ್ತಾರೆ?",
+    "optionsEnglish": [
+      "Sree Sree Shivakumara Swamiji",
+      "Sri Sri Ravishankar",
+      "Siddeshwara Swamiji",
+      "Balagangadharanatha Swamiji"
+    ],
+    "optionsKannada": [
+      "ಶ್ರೀ ಶ್ರೀ ಶಿವಕುಮಾರ ಸ್ವಾಮೀಜಿ",
+      "ಶ್ರೀ ಶ್ರೀ ರವಿಶಂಕರ್",
+      "ಸಿದ್ದೇಶ್ವರ ಸ್ವಾಮೀಜಿ",
+      "ಬಾಲಗಂಗಾಧರನಾಥ ಸ್ವಾಮೀಜಿ"
+    ],
+    "correctAnswerEnglish": "Sree Sree Shivakumara Swamiji",
+    "correctAnswerKannada": "ಶ್ರೀ ಶ್ರೀ ಶಿವಕುಮಾರ ಸ್ವಾಮೀಜಿ"
+  },
+  {
+    "heroName": "Sree Sree Shivakumara Swamiji",
+    "questionEnglish": "Sree Sree Shivakumara Swamiji was the head of which Mutt?",
+    "questionKannada": "ಶ್ರೀ ಶ್ರೀ ಶಿವಕುಮಾರ ಸ್ವಾಮೀಜಿ ಯಾವ ಮಠದ ಅಧ್ಯಕ್ಷರಾಗಿದ್ದರು?",
+    "optionsEnglish": [
+      "Siddaganga Mutt",
+      "Suttur Mutt",
+      "Adichunchanagiri Mutt",
+      "Ramakrishna Mission"
+    ],
+    "optionsKannada": [
+      "ಸಿದ್ಧಗಂಗಾ ಮಠ",
+      "ಸುತ್ತೂರು ಮಠ",
+      "ಆದಿಚುಂಚನಗಿರಿ ಮಠ",
+      "ರಾಮಕೃಷ್ಣ ಮಿಷನ್"
+    ],
+    "correctAnswerEnglish": "Siddaganga Mutt",
+    "correctAnswerKannada": "ಸಿದ್ಧಗಂಗಾ ಮಠ"
+  },
+  {
+    "heroName": "Sree Sree Shivakumara Swamiji",
+    "questionEnglish": "What was the 'Trividha Dasoha' promoted by the Swamiji?",
+    "questionKannada": "ಸ್ವಾಮೀಜಿಯವರು ಪ್ರಚಾರ ಮಾಡಿದ 'ತ್ರಿವಿಧ ದಾಸೋಹ' ಯಾವುದು?",
+    "optionsEnglish": [
+      "Food, Education, Shelter",
+      "Air, Water, Land",
+      "Money, Fame, Power",
+      "Art, Music, Dance"
+    ],
+    "optionsKannada": [
+      "ಅನ್ನ, ಅಕ್ಷರ, ಆಶ್ರಯ",
+      "ಗಾಳಿ, ನೀರು, ಭೂಮಿ",
+      "ಹಣ, ಪ್ರಶಸ್ತಿ, ಅಧಿಕಾರ",
+      "ಕಲೆ, ಸಂಗೀತ, ನೃತ್ಯ"
+    ],
+    "correctAnswerEnglish": "Food, Education, Shelter",
+    "correctAnswerKannada": "ಅನ್ನ, ಅಕ್ಷರ, ಆಶ್ರಯ"
+  },
+  {
+    "heroName": "Gubbi Veeranna",
+    "questionEnglish": "Who is considered the 'Father of Kannada Theatre'?",
+    "questionKannada": "ಕನ್ನಡ ರಂಗಭೂಮಿಯ ಪಿತಾಮಹ ಎಂದು ಯಾರನ್ನು ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ?",
+    "optionsEnglish": [
+      "Gubbi Veeranna",
+      "B.V. Karanth",
+      "T.P. Kailasam",
+      "Girish Karnad"
+    ],
+    "optionsKannada": [
+      "ಗುಬ್ಬಿ ವೀರಣ್ಣ",
+      "ಬಿ.ವಿ. ಕಾರಂತ",
+      "ಟಿ.ಪಿ. ಕೈಲಾಸಂ",
+      "ಗಿರೀಶ್ ಕಾರ್ನಾಡ್"
+    ],
+    "correctAnswerEnglish": "Gubbi Veeranna",
+    "correctAnswerKannada": "ಗುಬ್ಬಿ ವೀರಣ್ಣ"
+  },
+  {
+    "heroName": "Gubbi Veeranna",
+    "questionEnglish": "What was the name of Gubbi Veeranna's famous drama company?",
+    "questionKannada": "ಗುಬ್ಬಿ ವೀರಣ್ಣ ಸ್ಥಾಪಿಸಿದ ಪ್ರಸಿದ್ಧ ನಾಟಕ ಕಂಪನಿ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Gubbi Sri Chennabasaveshwara",
+      "Mysore Company",
+      "Ranga Shankara",
+      "Prithvi Theatre"
+    ],
+    "optionsKannada": [
+      "ಗುಬ್ಬಿ ಶ್ರೀ ಚೆನ್ನಬಸವೇಶ್ವರ",
+      "ಮೈಸೂರು ಕಂಪನಿ",
+      "ರಂಗ ಶಂಕರ",
+      "ಪೃಥ್ವಿ ಥಿಯೇಟರ್"
+    ],
+    "correctAnswerEnglish": "Gubbi Sri Chennabasaveshwara",
+    "correctAnswerKannada": "ಗುಬ್ಬಿ ಶ್ರೀ ಚೆನ್ನಬಸವೇಶ್ವರ"
+  },
+  {
+    "heroName": "Gubbi Veeranna",
+    "questionEnglish": "Which famous actor was nurtured by Gubbi Veeranna's drama company?",
+    "questionKannada": "ಗುಬ್ಬಿ ವೀರಣ್ಣನವರ ಕಂಪನಿಯಲ್ಲಿ ಬೆಳೆದ ಪ್ರಸಿದ್ಧ ನಟ ಯಾರು?",
+    "optionsEnglish": [
+      "Dr. Rajkumar",
+      "Dr. Vishnuvardhan",
+      "Ambareesh",
+      "Shankar Nag"
+    ],
+    "optionsKannada": [
+      "ಡಾ. ರಾಜ್‌ಕುಮಾರ್",
+      "ಡಾ. ವಿಷ್ಣುವರ್ಧನ್",
+      "ಅಂಬರೀಶ್",
+      "ಶಂಕರ್ ನಾಗ್"
+    ],
+    "correctAnswerEnglish": "Dr. Rajkumar",
+    "correctAnswerKannada": "ಡಾ. ರಾಜ್‌ಕುಮಾರ್"
+  },
+  {
+    "heroName": "Ali Adil Shah I",
+    "questionEnglish": "Ali Adil Shah I was the ruler of which kingdom?",
+    "questionKannada": "ಅಲಿ ಆದಿಲ್ ಶಾ ಯಾವ ರಾಜವಂಶದ ಅರಸನಾಗಿದ್ದನು?",
+    "optionsEnglish": [
+      "Bijapur Sultanate",
+      "Mysore Kingdom",
+      "Bahmani Kingdom",
+      "Kadamba Dynasty"
+    ],
+    "optionsKannada": [
+      "ಬಿಜಾಪುರ ಸುಲ್ತಾನೇಟ್",
+      "ಮೈಸೂರು ಸಂಸ್ಥಾನ",
+      "ಬಹಮನಿ ಸಾಮ್ರಾಜ್ಯ",
+      "ಕದಂಬ ರಾಜವಂಶ"
+    ],
+    "correctAnswerEnglish": "Bijapur Sultanate",
+    "correctAnswerKannada": "ಬಿಜಾಪುರ ಸುಲ್ತಾನೇಟ್"
+  },
+  {
+    "heroName": "Ali Adil Shah I",
+    "questionEnglish": "Which architectural marvel in Bijapur is associated with the construction of his era?",
+    "questionKannada": "ಬಿಜಾಪುರದ ಯಾವ ಭವ್ಯ ವಾಸ್ತುಶಿಲ್ಪವು ಇವರ ಕಾಲದ ನಿರ್ಮಾಣಕ್ಕೆ ಸಂಬಂಧಿಸಿದೆ?",
+    "optionsEnglish": [
+      "Gagan Mahal",
+      "Taj Mahal",
+      "Gol Gumbaz",
+      "Ibrahim Rauza"
+    ],
+    "optionsKannada": [
+      "ಗಗನ್ ಮಹಲ್",
+      "ತಾಜ್ ಮಹಲ್",
+      "ಗೋಲ್ ಗುಂಬಜ್",
+      "ಇಬ್ರಾಹಿಂ ರೌಜಾ"
+    ],
+    "correctAnswerEnglish": "Gagan Mahal",
+    "correctAnswerKannada": "ಗಗನ್ ಮಹಲ್"
+  },
+  {
+    "heroName": "Ali Adil Shah I",
+    "questionEnglish": "Which famous water tank in Bijapur was built during his reign?",
+    "questionKannada": "ಅಲಿ ಆದಿಲ್ ಶಾ ಕಾಲದಲ್ಲಿ ನಿರ್ಮಿಸಲಾದ ಬಿಜಾಪುರದ ಪ್ರಸಿದ್ಧ ಬಾವಿ ಅಥವಾ ಕೆರೆ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Chand Bawdi",
+      "Stepped Well",
+      "Shiva Tank",
+      "Agastya Lake"
+    ],
+    "optionsKannada": [
+      "ಚಾಂದ್ ಬಾವಡಿ",
+      "ಸ್ಟೆಪ್ಡ್ ವೆಲ್",
+      "ಶಿವ ಟ್ಯಾಂಕ್",
+      "ಅಗಸ್ತ್ಯ ಕೆರೆ"
+    ],
+    "correctAnswerEnglish": "Chand Bawdi",
+    "correctAnswerKannada": "ಚಾಂದ್ ಬಾವಡಿ"
+  },
+  {
+    "heroName": "Krishna Deva Raya",
+    "questionEnglish": "Krishna Deva Raya was the most famous emperor of which empire?",
+    "questionKannada": "ಕೃಷ್ಣದೇವರಾಯರು ಯಾವ ಸಾಮ್ರಾಜ್ಯದ ಅತ್ಯಂತ ಪ್ರಸಿದ್ಧ ಚಕ್ರವರ್ತಿ?",
+    "optionsEnglish": [
+      "Vijayanagara Empire",
+      "Mughal Empire",
+      "Maurya Empire",
+      "Gupta Empire"
+    ],
+    "optionsKannada": [
+      "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ",
+      "ಮೊಘಲ್ ಸಾಮ್ರಾಜ್ಯ",
+      "ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ",
+      "ಗುಪ್ತ ಸಾಮ್ರಾಜ್ಯ"
+    ],
+    "correctAnswerEnglish": "Vijayanagara Empire",
+    "correctAnswerKannada": "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ"
+  },
+  {
+    "heroName": "Krishna Deva Raya",
+    "questionEnglish": "What is the name of the Telugu epic written by Krishna Deva Raya?",
+    "questionKannada": "ಕೃಷ್ಣದೇವರಾಯರು ತೆಲುಗಿನಲ್ಲಿ ಬರೆದ ಮಹಾಕಾವ್ಯದ ಹೆಸರೇನು?",
+    "optionsEnglish": [
+      "Amuktamalyada",
+      "Ramayana",
+      "Mahabharata",
+      "Gatha Saptasati"
+    ],
+    "optionsKannada": [
+      "ಆಮುಕ್ತಮೌಲ್ಯದ",
+      "ರಾಮಾಯಣ",
+      "ಮಹಾಭಾರತ",
+      "ಗಾಥಾ ಸಪ್ತಸತಿ"
+    ],
+    "correctAnswerEnglish": "Amuktamalyada",
+    "correctAnswerKannada": "ಆಮುಕ್ತಮೌಲ್ಯದ"
+  },
+  {
+    "heroName": "Krishna Deva Raya",
+    "questionEnglish": "The 'Ashtadiggajas' were in which emperor's court?",
+    "questionKannada": "'ಅಷ್ಟದಿಗ್ಗಜ' ಕವಿಗಳು ಯಾವ ಚಕ್ರವರ್ತಿಯ ಆಸ್ಥಾನದಲ್ಲಿದ್ದರು?",
+    "optionsEnglish": [
+      "Krishna Deva Raya",
+      "Akbar",
+      "Vikramaditya",
+      "Ashoka"
+    ],
+    "optionsKannada": [
+      "ಕೃಷ್ಣದೇವರಾಯರು",
+      "ಅಕ್ಬರ್",
+      "ವಿಕ್ರಮಾದಿತ್ಯ",
+      "ಅಶೋಕ"
+    ],
+    "correctAnswerEnglish": "Krishna Deva Raya",
+    "correctAnswerKannada": "ಕೃಷ್ಣದೇವರಾಯರು"
+  },
+  {
+    "heroName": "Madhavacharya",
+    "questionEnglish": "Madhavacharya founded which school of Vedanta?",
+    "questionKannada": "ಮಧ್ವಾಚಾರ್ಯರು ಯಾವ ವೇದಾಂತ ಪಂಥವನ್ನು ಸ್ಥಾಪಿಸಿದರು?",
+    "optionsEnglish": [
+      "Dvaita",
+      "Advaita",
+      "Vishishtadvaita",
+      "Shakti Vishishtadvaita"
+    ],
+    "optionsKannada": [
+      "ದ್ವೈತ",
+      "ಅದ್ವೈತ",
+      "ವಿಶಿಷ್ಟಾದ್ವೈತ",
+      "ಶಕ್ತಿ ವಿಶಿಷ್ಟಾದ್ವೈತ"
+    ],
+    "correctAnswerEnglish": "Dvaita",
+    "correctAnswerKannada": "ದ್ವೈತ"
+  },
+  {
+    "heroName": "Madhavacharya",
+    "questionEnglish": "In which city did Madhavacharya establish the Krishna Mutt?",
+    "questionKannada": "ಮಧ್ವಾಚಾರ್ಯರು ಕೃಷ್ಣ ಮಠವನ್ನು ಯಾವ ನಗರದಲ್ಲಿ ಸ್ಥಾಪಿಸಿದರು?",
+    "optionsEnglish": [
+      "Udupi",
+      "Sringeri",
+      "Mantralaya",
+      "Gokarna"
+    ],
+    "optionsKannada": [
+      "ಉಡುಪಿ",
+      "ಶೃಂಗೇರಿ",
+      "ಮಂತ್ರಾಲಯ",
+      "ಗೋಕರ್ಣ"
+    ],
+    "correctAnswerEnglish": "Udupi",
+    "correctAnswerKannada": "ಉಡುಪಿ"
+  },
+  {
+    "heroName": "Madhavacharya",
+    "questionEnglish": "How many Mathas (Ashta Mathas) did Madhavacharya establish in Udupi?",
+    "questionKannada": "ಮಧ್ವಾಚಾರ್ಯರು ಉಡುಪಿಯಲ್ಲಿ ಎಷ್ಟು ಮಠಗಳನ್ನು (ಅಷ್ಟ ಮಠಗಳು) ಸ್ಥಾಪಿಸಿದರು?",
+    "optionsEnglish": [
+      "Eight",
+      "Four",
+      "Twelve",
+      "Two"
+    ],
+    "optionsKannada": [
+      "ಎಂಟು",
+      "ನಾಲ್ಕು",
+      "ಹನ್ನೆರಡು",
+      "ಎರಡು"
+    ],
+    "correctAnswerEnglish": "Eight",
+    "correctAnswerKannada": "ಎಂಟು"
+  },
+  {
+    "heroName": "Hardekar Manjappa",
+    "questionEnglish": "Who is known as the 'Gandhi of Karnataka'?",
+    "questionKannada": "'ಕರ್ನಾಟಕದ ಗಾಂಧಿ' ಎಂದು ಯಾರನ್ನು ಕರೆಯುತ್ತಾರೆ?",
+    "optionsEnglish": [
+      "Hardekar Manjappa",
+      "Kengal Hanumanthaiah",
+      "S. Nijalingappa",
+      "H. Narasimhaiah"
+    ],
+    "optionsKannada": [
+      "ಹಾರ್ದೇಕರ್ ಮಂಜಪ್ಪ",
+      "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯ",
+      "ಎಸ್. ನಿಜಲಿಂಗಪ್ಪ",
+      "ಎಚ್. ನರಸಿಂಹಯ್ಯ"
+    ],
+    "correctAnswerEnglish": "Hardekar Manjappa",
+    "correctAnswerKannada": "ಹಾರ್ದೇಕರ್ ಮಂಜಪ್ಪ"
+  },
+  {
+    "heroName": "Hardekar Manjappa",
+    "questionEnglish": "Hardekar Manjappa was born in which historical town?",
+    "questionKannada": "ಹಾರ್ದೇಕರ್ ಮಂಜಪ್ಪನವರು ಯಾವ ಐತಿಹಾಸಿಕ ಪಟ್ಟಣದಲ್ಲಿ ಜನಿಸಿದರು?",
+    "optionsEnglish": [
+      "Banavasi",
+      "Badami",
+      "Hampi",
+      "Mysuru"
+    ],
+    "optionsKannada": [
+      "ಬನವಾಸಿ",
+      "ಬಾದಾಮಿ",
+      "ಹಂಪಿ",
+      "ಮೈಸೂರು"
+    ],
+    "correctAnswerEnglish": "Banavasi",
+    "correctAnswerKannada": "ಬನವಾಸಿ"
+  },
+  {
+    "heroName": "Hardekar Manjappa",
+    "questionEnglish": "Hardekar Manjappa strongly advocated for which of these Gandhian ideals?",
+    "questionKannada": "ಹಾರ್ದೇಕರ್ ಮಂಜಪ್ಪನವರು ಯಾವ ಗಾಂಧಿ ತತ್ವಕ್ಕಾಗಿ ಹೆಚ್ಚು ಶ್ರಮಿಸಿದರು?",
+    "optionsEnglish": [
+      "Khadi and Satyagraha",
+      "Industrialization",
+      "Armed Rebellion",
+      "Monarchy"
+    ],
+    "optionsKannada": [
+      "ಖಾದಿ ಮತ್ತು ಸತ್ಯಾಗ್ರಹ",
+      "ಕೈಗಾರಿಕೀಕರಣ",
+      "ಸಶಸ್ತ್ರ ದಂಗೆ",
+      "ರಾಜಪ್ರಭುತ್ವ"
+    ],
+    "correctAnswerEnglish": "Khadi and Satyagraha",
+    "correctAnswerKannada": "ಖಾದಿ ಮತ್ತು ಸತ್ಯಾಗ್ರಹ"
+  },
+  {
+    "heroName": "S. Nijalingappa",
+    "questionEnglish": "Who was the first Chief Minister of unified Mysore State (Karnataka)?",
+    "questionKannada": "ಏಕೀಕೃತ ಮೈಸೂರು ರಾಜ್ಯದ (ಕರ್ನಾಟಕ) ಮೊದಲ ಮುಖ್ಯಮಂತ್ರಿ ಯಾರು?",
+    "optionsEnglish": [
+      "S. Nijalingappa",
+      "Kengal Hanumanthaiah",
+      "D. Devaraj Urs",
+      "Ramakrishna Hegde"
+    ],
+    "optionsKannada": [
+      "ಎಸ್. ನಿಜಲಿಂಗಪ್ಪ",
+      "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯ",
+      "ಡಿ. ದೇವರಾಜ ಅರಸು",
+      "ರಾಮಕೃಷ್ಣ ಹೆಗಡೆ"
+    ],
+    "correctAnswerEnglish": "S. Nijalingappa",
+    "correctAnswerKannada": "ಎಸ್. ನಿಜಲಿಂಗಪ್ಪ"
+  },
+  {
+    "heroName": "S. Nijalingappa",
+    "questionEnglish": "S. Nijalingappa served as the President of which national party?",
+    "questionKannada": "ಎಸ್. ನಿಜಲಿಂಗಪ್ಪನವರು ಯಾವ ರಾಷ್ಟ್ರೀಯ ಪಕ್ಷದ ಅಧ್ಯಕ್ಷರಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸಿದರು?",
+    "optionsEnglish": [
+      "Indian National Congress",
+      "Janata Dal",
+      "BJP",
+      "Communist Party"
+    ],
+    "optionsKannada": [
+      "ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್",
+      "ಜನತಾ ದಳ",
+      "ಬಿಜೆಪಿ",
+      "ಕಮ್ಯುನಿಸ್ತ್ ಪಾರ್ಟಿ"
+    ],
+    "correctAnswerEnglish": "Indian National Congress",
+    "correctAnswerKannada": "ಭಾರತೀಯ ರಾಷ್ಟ್ರೀಯ ಕಾಂಗ್ರೆಸ್"
+  },
+  {
+    "heroName": "S. Nijalingappa",
+    "questionEnglish": "S. Nijalingappa is from which district of Karnataka?",
+    "questionKannada": "ಎಸ್. ನಿಜಲಿಂಗಪ್ಪನವರು ಕರ್ನಾಟಕದ ಯಾವ ಜಿಲ್ಲೆಯವರು?",
+    "optionsEnglish": [
+      "Bagalkote",
+      "Chitradurga",
+      "Davanagere",
+      "Bellary"
+    ],
+    "optionsKannada": [
+      "ಬಾಗಲಕೋಟೆ",
+      "ಚಿತ್ರದುರ್ಗ",
+      "ದಾವಣಗೆರೆ",
+      "ಬಳ್ಳಾರಿ"
+    ],
+    "correctAnswerEnglish": "Bagalkote",
+    "correctAnswerKannada": "ಬಾಗಲಕೋಟೆ"
+  },
+  {
+    "heroName": "Tekur Subramanyam",
+    "questionEnglish": "Tekur Subramanyam was a prominent leader from which district?",
+    "questionKannada": "ಟೇಕೂರು ಸುಬ್ರಹ್ಮಣ್ಯಂ ಯಾವ ಜಿಲ್ಲೆಯ ಪ್ರಮುಖ ನಾಯಕರಾಗಿದ್ದರು?",
+    "optionsEnglish": [
+      "Ballari",
+      "Raichur",
+      "Koppal",
+      "Bidar"
+    ],
+    "optionsKannada": [
+      "ಬಳ್ಳಾರಿ",
+      "ರಾಯಚೂರು",
+      "ಕೊಪ್ಪಳ",
+      "ಬೀದರ್"
+    ],
+    "correctAnswerEnglish": "Ballari",
+    "correctAnswerKannada": "ಬಳ್ಳಾರಿ"
+  },
+  {
+    "heroName": "Tekur Subramanyam",
+    "questionEnglish": "How many terms was Tekur Subramanyam elected to the Lok Sabha?",
+    "questionKannada": "ಟೇಕೂರು ಸುಬ್ರಹ್ಮಣ್ಯಂ ಎಷ್ಟು ಬಾರಿ ಲೋಕಸಭೆಗೆ ಆಯ್ಕೆಯಾಗಿದ್ದರು?",
+    "optionsEnglish": [
+      "Three",
+      "One",
+      "Two",
+      "Four"
+    ],
+    "optionsKannada": [
+      "ಮೂರು",
+      "ಒಂದು",
+      "ಎರಡು",
+      "ನಾಲ್ಕು"
+    ],
+    "correctAnswerEnglish": "Three",
+    "correctAnswerKannada": "ಮೂರು"
+  },
+  {
+    "heroName": "Tekur Subramanyam",
+    "questionEnglish": "Which philosopher's ideals heavily influenced Tekur Subramanyam?",
+    "questionKannada": "ಟೇಕೂರು ಸುಬ್ರಹ್ಮಣ್ಯಂ ಅವರ ಮೇಲೆ ಯಾರ ತತ್ವಗಳು ಹೆಚ್ಚಿನ ಪ್ರಭಾವ ಬೀರಿದ್ದವು?",
+    "optionsEnglish": [
+      "Mahatma Gandhi",
+      "Karl Marx",
+      "Socrates",
+      "B.R. Ambedkar"
+    ],
+    "optionsKannada": [
+      "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+      "ಕಾರ್ಲ್ ಮಾರ್ಕ್ಸ್",
+      "ಸಾಕ್ರಟೀಸ್",
+      "ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್"
+    ],
+    "correctAnswerEnglish": "Mahatma Gandhi",
+    "correctAnswerKannada": "ಮಹಾತ್ಮ ಗಾಂಧಿ"
+  },
+  {
+    "heroName": "Mahmud Gawan",
+    "questionEnglish": "In which city did Mahmud Gawan build the famous Madrasa?",
+    "questionKannada": "ಮಹಮೂದ್ ಗವಾನ್ ಪ್ರಸಿದ್ಧ ಮದರಸಾವನ್ನು ಯಾವ ನಗರದಲ್ಲಿ ನಿರ್ಮಿಸಿದರು?",
+    "optionsEnglish": [
+      "Bidar",
+      "Bijapur",
+      "Gulbarga",
+      "Raichur"
+    ],
+    "optionsKannada": [
+      "ಬೀದರ್",
+      "ಬಿಜಾಪುರ",
+      "ಕಲಬುರಗಿ",
+      "ರಾಯಚೂರು"
+    ],
+    "correctAnswerEnglish": "Bidar",
+    "correctAnswerKannada": "ಬೀದರ್"
+  },
+  {
+    "heroName": "Mahmud Gawan",
+    "questionEnglish": "Mahmud Gawan was the Prime Minister (Vizier) of which Sultanate?",
+    "questionKannada": "ಮಹಮೂದ್ ಗವಾನ್ ಯಾವ ಸುಲ್ತಾನೇಟ್‌ನ ಪ್ರಧಾನ ಮಂತ್ರಿಯಾಗಿದ್ದರು?",
+    "optionsEnglish": [
+      "Bahmani Sultanate",
+      "Adil Shahi",
+      "Nizam Shahi",
+      "Barid Shahi"
+    ],
+    "optionsKannada": [
+      "ಬಹಮನಿ ಸುಲ್ತಾನೇಟ್",
+      "ಆದಿಲ್ ಶಾಹಿ",
+      "ನಿಜಾಮ್ ಶಾಹಿ",
+      "ಬರಿದ್ ಶಾಹಿ"
+    ],
+    "correctAnswerEnglish": "Bahmani Sultanate",
+    "correctAnswerKannada": "ಬಹಮನಿ ಸುಲ್ತಾನೇಟ್"
+  },
+  {
+    "heroName": "Mahmud Gawan",
+    "questionEnglish": "Mahmud Gawan was known for his mastery in which field?",
+    "questionKannada": "ಮಹಮೂದ್ ಗವಾನ್ ಯಾವ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪಾಂಡಿತ್ಯ ಹೊಂದಿದ್ದರು?",
+    "optionsEnglish": [
+      "Mathematics and Literature",
+      "Painting",
+      "Sculpture",
+      "Dance"
+    ],
+    "optionsKannada": [
+      "ಗಣಿತ ಮತ್ತು ಸಾಹಿತ್ಯ",
+      "ಚಿತ್ರಕಲೆ",
+      "ಶಿಲ್ಪಕಲೆ",
+      "ನೃತ್ಯ"
+    ],
+    "correctAnswerEnglish": "Mathematics and Literature",
+    "correctAnswerKannada": "ಗಣಿತ ಮತ್ತು ಸಾಹಿತ್ಯ"
+  },
+  {
+    "heroName": "Chamaraja Wadiyar IX",
+    "questionEnglish": "Which district town is named in memory of Maharaja Chamaraja Wadiyar?",
+    "questionKannada": "ಯಾವ ಜಿಲ್ಲಾ ಕೇಂದ್ರಕ್ಕೆ ಮಹಾರಾಜ ಚಾಮರಾಜ ಒಡೆಯ ಅವರ ಹೆಸರಿಡಲಾಗಿದೆ?",
+    "optionsEnglish": [
+      "Chamarajanagar",
+      "Mysuru",
+      "Mandya",
+      "Hassan"
+    ],
+    "optionsKannada": [
+      "ಚಾಮರಾಜನಗರ",
+      "ಮೈಸೂರು",
+      "ಮಂಡ್ಯ",
+      "ಹಾಸನ"
+    ],
+    "correctAnswerEnglish": "Chamarajanagar",
+    "correctAnswerKannada": "ಚಾಮರಾಜನಗರ"
+  },
+  {
+    "heroName": "Chamaraja Wadiyar IX",
+    "questionEnglish": "Chamaraja Wadiyar IX belonged to which royal family?",
+    "questionKannada": "ಚಾಮರಾಜ ಒಡೆಯರ್ ಯಾವ ರಾಜವಂಶಕ್ಕೆ ಸೇರಿದವರು?",
+    "optionsEnglish": [
+      "Wadiyar Dynasty",
+      "Kadamba Dynasty",
+      "Rashtrakuta Dynasty",
+      "Hoysala Dynasty"
+    ],
+    "optionsKannada": [
+      "ಒಡೆಯರ್ ರಾಜವಂಶ",
+      "ಕದಂಬ ರಾಜವಂಶ",
+      "ರಾಷ್ಟ್ರಕೂಟ ರಾಜವಂಶ",
+      "ಹೊಯ್ಸಳ ರಾಜವಂಶ"
+    ],
+    "correctAnswerEnglish": "Wadiyar Dynasty",
+    "correctAnswerKannada": "ಒಡೆಯರ್ ರಾಜವಂಶ"
+  },
+  {
+    "heroName": "Chamaraja Wadiyar IX",
+    "questionEnglish": "Which city is the cultural capital of Karnataka, developed by the Wadiyars?",
+    "questionKannada": "ಒಡೆಯರ್‌ಗಳಿಂದ ಅಭಿವೃದ್ಧಿಪಡಿಸಲಾದ ಕರ್ನಾಟಕದ ಸಾಂಸ್ಕೃತಿಕ ರಾಜಧಾನಿ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Mysuru",
+      "Bengaluru",
+      "Hubballi",
+      "Dharwad"
+    ],
+    "optionsKannada": [
+      "ಮೈಸೂರು",
+      "ಬೆಂಗಳೂರು",
+      "ಹುಬ್ಬಳ್ಳಿ",
+      "ಧಾರವಾಡ"
+    ],
+    "correctAnswerEnglish": "Mysuru",
+    "correctAnswerKannada": "ಮೈಸೂರು"
+  },
+  {
+    "heroName": "Kengal Hanumanthaiah",
+    "questionEnglish": "Who is the main architect behind the construction of Vidhana Soudha?",
+    "questionKannada": "ವಿಧಾನಸೌಧದ ನಿರ್ಮಾಣದ ಹಿಂದಿನ ಮುಖ್ಯ ಶಿಲ್ಪಿ ಯಾರು?",
+    "optionsEnglish": [
+      "Kengal Hanumanthaiah",
+      "S. Nijalingappa",
+      "D. Devaraj Urs",
+      "Kadidal Manjappa"
+    ],
+    "optionsKannada": [
+      "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯ",
+      "ಎಸ್. ನಿಜಲಿಂಗಪ್ಪ",
+      "ಡಿ. ದೇವರಾಜ ಅರಸು",
+      "ಕಡಿದಾಳ್ ಮಂಜಪ್ಪ"
+    ],
+    "correctAnswerEnglish": "Kengal Hanumanthaiah",
+    "correctAnswerKannada": "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯ"
+  },
+  {
+    "heroName": "Kengal Hanumanthaiah",
+    "questionEnglish": "Kengal Hanumanthaiah was the second Chief Minister of which state?",
+    "questionKannada": "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯ ಯಾವ ರಾಜ್ಯದ ಎರಡನೇ ಮುಖ್ಯಮಂತ್ರಿಯಾಗಿದ್ದರು?",
+    "optionsEnglish": [
+      "Mysore State",
+      "Madras State",
+      "Bombay State",
+      "Hyderabad State"
+    ],
+    "optionsKannada": [
+      "ಮೈಸೂರು ರಾಜ್ಯ",
+      "ಮದ್ರಾಸ್ ರಾಜ್ಯ",
+      "ಬಾಂಬೆ ರಾಜ್ಯ",
+      "ಹೈದರಾಬಾದ್ ರಾಜ್ಯ"
+    ],
+    "correctAnswerEnglish": "Mysore State",
+    "correctAnswerKannada": "ಮೈಸೂರು ರಾಜ್ಯ"
+  },
+  {
+    "heroName": "Kengal Hanumanthaiah",
+    "questionEnglish": "In which district is the Kengal Hanumanthaiah's birthplace Ramanagara located?",
+    "questionKannada": "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯ ಹುಟ್ಟಿದ ಜಿಲ್ಲೆ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Ramanagara",
+      "Bengaluru Rural",
+      "Mandya",
+      "Tumakuru"
+    ],
+    "optionsKannada": [
+      "ರಾಮನಗರ",
+      "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ",
+      "ಮಂಡ್ಯ",
+      "ತುಮಕೂರು"
+    ],
+    "correctAnswerEnglish": "Ramanagara",
+    "correctAnswerKannada": "ರಾಮನಗರ"
+  },
+  {
+    "heroName": "Narayana Rao Huilgol",
+    "questionEnglish": "Who wrote the song 'Udayavagali Namma Cheluva Kannada Nadu'?",
+    "questionKannada": "'ಉದಯವಾಗಲಿ ನಮ್ಮ ಚೆಲುವ ಕನ್ನಡ ನಾಡು' ಹಾಡನ್ನು ಬರೆದವರು ಯಾರು?",
+    "optionsEnglish": [
+      "Narayana Rao Huilgol",
+      "Kuvempu",
+      "Bendre",
+      "Chennaveera Kanavi"
+    ],
+    "optionsKannada": [
+      "ನಾರಾಯಣರಾವ್ ಹುಯಿಲಗೋಳ",
+      "ಕುವೆಂಪು",
+      "ದ.ರಾ. ಬೇಂದ್ರೆ",
+      "ಚೆನ್ನವೀರ ಕಣವಿ"
+    ],
+    "correctAnswerEnglish": "Narayana Rao Huilgol",
+    "correctAnswerKannada": "ನಾರಾಯಣರಾವ್ ಹುಯಿಲಗೋಳ"
+  },
+  {
+    "heroName": "Narayana Rao Huilgol",
+    "questionEnglish": "In which city's literature conference was the song 'Udayavagali...' first sung?",
+    "questionKannada": "'ಉದಯವಾಗಲಿ...' ಹಾಡನ್ನು ಮೊದಲು ಯಾವ ನಗರದ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದಲ್ಲಿ ಹಾಡಲಾಯಿತು?",
+    "optionsEnglish": [
+      "Dharwad",
+      "Mysuru",
+      "Bengaluru",
+      "Belagavi"
+    ],
+    "optionsKannada": [
+      "ಧಾರವಾಡ",
+      "ಮೈಸೂರು",
+      "ಬೆಂಗಳೂರು",
+      "ಬೆಳಗಾವಿ"
+    ],
+    "correctAnswerEnglish": "Dharwad",
+    "correctAnswerKannada": "ಧಾರವಾಡ"
+  },
+  {
+    "heroName": "Narayana Rao Huilgol",
+    "questionEnglish": "Narayana Rao Huilgol was a prominent figure in which movement?",
+    "questionKannada": "ನಾರಾಯಣರಾವ್ ಹುಯಿಲಗೋಳ ಯಾವ ಚಳವಳಿಯ ಪ್ರಮುಖ ನಾಯಕರಾಗಿದ್ದರು?",
+    "optionsEnglish": [
+      "Unification of Karnataka",
+      "Quit India",
+      "Non-Cooperation",
+      "Bhakti"
+    ],
+    "optionsKannada": [
+      "ಕರ್ನಾಟಕ ಏಕೀಕರಣ",
+      "ಕ್ವಿಟ್ ಇಂಡಿಯಾ",
+      "ಅಸಹಕಾರ",
+      "ಭಕ್ತಿ"
+    ],
+    "correctAnswerEnglish": "Unification of Karnataka",
+    "correctAnswerKannada": "ಕರ್ನಾಟಕ ಏಕೀಕರಣ"
+  },
+  {
+    "heroName": "H. Narasimhaiah",
+    "questionEnglish": "H. Narasimhaiah was the Vice-Chancellor of which university?",
+    "questionKannada": "ಎಚ್. ನರಸಿಂಹಯ್ಯನವರು ಯಾವ ವಿಶ್ವವಿದ್ಯಾಲಯದ ಕುಲಪತಿಗಳಾಗಿದ್ದರು?",
+    "optionsEnglish": [
+      "Bangalore University",
+      "Mysore University",
+      "Karnatak University",
+      "Gulbarga University"
+    ],
+    "optionsKannada": [
+      "ಬೆಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ",
+      "ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ",
+      "ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯ",
+      "ಗುಲ್ಬರ್ಗ ವಿಶ್ವವಿದ್ಯಾಲಯ"
+    ],
+    "correctAnswerEnglish": "Bangalore University",
+    "correctAnswerKannada": "ಬೆಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ"
+  },
+  {
+    "heroName": "H. Narasimhaiah",
+    "questionEnglish": "H. Narasimhaiah was a strong proponent of which of these?",
+    "questionKannada": "ಎಚ್. ನರಸಿಂಹಯ್ಯನವರು ಯಾವುದನ್ನು ಬಲವಾಗಿ ಪ್ರತಿಪಾದಿಸುತ್ತಿದ್ದರು?",
+    "optionsEnglish": [
+      "Scientific Temper and Rationalism",
+      "Superstition",
+      "Monarchy",
+      "Astrology"
+    ],
+    "optionsKannada": [
+      "ವೈಜ್ಞಾನಿಕ ಮನೋಭಾವ ಮತ್ತು ವೈಚಾರಿಕತೆ",
+      "ಮೂಢನಂಬಿಕೆ",
+      "ರಾಜಪ್ರಭುತ್ವ",
+      "ಜ್ಯೋತಿಷ್ಯ"
+    ],
+    "correctAnswerEnglish": "Scientific Temper and Rationalism",
+    "correctAnswerKannada": "ವೈಜ್ಞಾನಿಕ ಮನೋಭಾವ ಮತ್ತು ವೈಚಾರಿಕತೆ"
+  },
+  {
+    "heroName": "H. Narasimhaiah",
+    "questionEnglish": "H. Narasimhaiah was associated with which famous college in Bangalore?",
+    "questionKannada": "ಎಚ್. ನರಸಿಂಹಯ್ಯನವರು ಬೆಂಗಳೂರಿನ ಯಾವ ಪ್ರಸಿದ್ಧ ಕಾಲೇಜಿನೊಂದಿಗೆ ಗುರುತಿಸಿಕೊಂಡಿದ್ದರು?",
+    "optionsEnglish": [
+      "National College",
+      "St. Joseph's College",
+      "MES College",
+      "Mount Carmel College"
+    ],
+    "optionsKannada": [
+      "ನ್ಯಾಷನಲ್ ಕಾಲೇಜ್",
+      "ಸೇಂಟ್ ಜೋಸೆಫ್ ಕಾಲೇಜ್",
+      "ಎಂಇಎಸ್ ಕಾಲೇಜ್",
+      "ಮೌಂಟ್ ಕಾರ್ಮೆಲ್ ಕಾಲೇಜ್"
+    ],
+    "correctAnswerEnglish": "National College",
+    "correctAnswerKannada": "ನ್ಯಾಷನಲ್ ಕಾಲೇಜ್"
+  },
+  {
+    "heroName": "M.C. Modi",
+    "questionEnglish": "Dr. M.C. Modi is famous for his service in which medical field?",
+    "questionKannada": "ಡಾ. ಎಂ.ಸಿ. ಮೋದಿಯವರು ಯಾವ ವೈದ್ಯಕೀಯ ಕ್ಷೇತ್ರದಲ್ಲಿನ ಸೇವೆಗಾಗಿ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+    "optionsEnglish": [
+      "Ophthalmology (Eye)",
+      "Cardiology (Heart)",
+      "Neurology (Brain)",
+      "Orthopedics (Bone)"
+    ],
+    "optionsKannada": [
+      "ನೇತ್ರ ಚಿಕಿತ್ಸೆ (ಕಣ್ಣು)",
+      "ಹೃದ್ರೋಗ ಚಿಕಿತ್ಸೆ (ಹೃದಯ)",
+      "ನರರೋಗ ಚಿಕಿತ್ಸೆ (ಮೆದುಳು)",
+      "ಮೂಳೆ ಚಿಕಿತ್ಸೆ"
+    ],
+    "correctAnswerEnglish": "Ophthalmology (Eye)",
+    "correctAnswerKannada": "ನೇತ್ರ ಚಿಕಿತ್ಸೆ (ಕಣ್ಣು)"
+  },
+  {
+    "heroName": "M.C. Modi",
+    "questionEnglish": "Dr. M.C. Modi conducted thousands of free what?",
+    "questionKannada": "ಡಾ. ಎಂ.ಸಿ. ಮೋದಿಯವರು ಸಾವಿರಾರು ಸಂಖ್ಯೆಯಲ್ಲಿ ಯಾವುದನ್ನು ಉಚಿತವಾಗಿ ಮಾಡಿದರು?",
+    "optionsEnglish": [
+      "Eye Surgeries",
+      "Vaccinations",
+      "Consultations",
+      "Blood Tests"
+    ],
+    "optionsKannada": [
+      "ಕಣ್ಣಿನ ಶಸ್ತ್ರಚಿಕಿತ್ಸೆಗಳು",
+      "ಲಸಿಕೆಗಳು",
+      "ಸಲಹೆಗಳು",
+      "ರಕ್ತ ಪರೀಕ್ಷೆಗಳು"
+    ],
+    "correctAnswerEnglish": "Eye Surgeries",
+    "correctAnswerKannada": "ಕಣ್ಣಿನ ಶಸ್ತ್ರಚಿಕಿತ್ಸೆಗಳು"
+  },
+  {
+    "heroName": "M.C. Modi",
+    "questionEnglish": "Dr. M.C. Modi is often called by which title due to his selfless service?",
+    "questionKannada": "ಡಾ. ಎಂ.ಸಿ. ಮೋದಿಯವರ ಸೇವೆಯನ್ನು ನೋಡಿ ಅವರಿಗೆ ನೀಡಲಾದ ಬಿರುದು ಅಥವಾ ಗೌರವ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Siddapurusha of Service",
+      "Kavi",
+      "Raja",
+      "Sultan"
+    ],
+    "optionsKannada": [
+      "ಸೇವಾ ಸಿದ್ಧಪುರುಷ",
+      "ಕವಿ",
+      "ರಾಜ",
+      "ಸುಲ್ತಾನ್"
+    ],
+    "correctAnswerEnglish": "Siddapurusha of Service",
+    "correctAnswerKannada": "ಸೇವಾ ಸಿದ್ಧಪುರುಷ"
+  },
+  {
+    "heroName": "Dr. Rajkumar",
+    "questionEnglish": "Dr. Rajkumar is known by which affectionate title in Karnataka?",
+    "questionKannada": "ಡಾ. ರಾಜ್‌ಕುಮಾರ್ ಅವರನ್ನು ಕರ್ನಾಟಕದಲ್ಲಿ ಯಾವ ಪ್ರೀತಿಯ ಹೆಸರಿನಿಂದ ಕರೆಯುತ್ತಾರೆ?",
+    "optionsEnglish": [
+      "Annavru",
+      "Appu",
+      "Tiger",
+      "Simha"
+    ],
+    "optionsKannada": [
+      "ಅಣ್ಣಾವ್ರು",
+      "ಅಪ್ಪು",
+      "ಟೈಗರ್",
+      "ಸಿಂಹ"
+    ],
+    "correctAnswerEnglish": "Annavru",
+    "correctAnswerKannada": "ಅಣ್ಣಾವ್ರು"
+  },
+  {
+    "heroName": "Dr. Rajkumar",
+    "questionEnglish": "Which highest award was conferred upon Dr. Rajkumar by the Karnataka government?",
+    "questionKannada": "ಕರ್ನಾಟಕ ಸರ್ಕಾರವು ಡಾ. ರಾಜ್‌ಕುಮಾರ್ ಅವರಿಗೆ ನೀಡಿದ ಅತ್ಯುನ್ನತ ಪ್ರಶಸ್ತಿ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Karnataka Ratna",
+      "Pampa Award",
+      "Rajyotsava Award",
+      "Kuvempu Award"
+    ],
+    "optionsKannada": [
+      "ಕರ್ನಾಟಕ ರತ್ನ",
+      "ಪಂಪ ಪ್ರಶಸ್ತಿ",
+      "ರಾಜ್ಯೋತ್ಸವ ಪ್ರಶಸ್ತಿ",
+      "ಕುವೆಂಪು ಪ್ರಶಸ್ತಿ"
+    ],
+    "correctAnswerEnglish": "Karnataka Ratna",
+    "correctAnswerKannada": "ಕರ್ನಾಟಕ ರತ್ನ"
+  },
+  {
+    "heroName": "Dr. Rajkumar",
+    "questionEnglish": "Dr. Rajkumar received the Dadasaheb Phalke Award in which year?",
+    "questionKannada": "ಡಾ. ರಾಜ್‌ಕುಮಾರ್ ಅವರಿಗೆ ದಾದಾಸಾಹೇಬ್ ಫಾಲ್ಕೆ ಪ್ರಶಸ್ತಿ ಬಂದ ವರ್ಷ ಯಾವುದು?",
+    "optionsEnglish": [
+      "1995",
+      "1990",
+      "2000",
+      "2005"
+    ],
+    "optionsKannada": [
+      "1995",
+      "1990",
+      "2000",
+      "2005"
+    ],
+    "correctAnswerEnglish": "1995",
+    "correctAnswerKannada": "1995"
+  },
+  {
+    "heroName": "Dr. Vishnuvardhan",
+    "questionEnglish": "What was the popular title given to Dr. Vishnuvardhan?",
+    "questionKannada": "ಡಾ. ವಿಷ್ಣುವರ್ಧನ್ ಅವರಿಗೆ ಇದ್ದ ಜನಪ್ರಿಯ ಬಿರುದು ಯಾವುದು?",
+    "optionsEnglish": [
+      "Sahasa Simha",
+      "Rebel Star",
+      "Crazy Star",
+      "Real Star"
+    ],
+    "optionsKannada": [
+      "ಸಾಹಸ ಸಿಂಹ",
+      "ರೆಬೆಲ್ ಸ್ಟಾರ್",
+      "ಕ್ರೇಜಿ ಸ್ಟಾರ್",
+      "ರಿಯಲ್ ಸ್ಟಾರ್"
+    ],
+    "correctAnswerEnglish": "Sahasa Simha",
+    "correctAnswerKannada": "ಸಾಹಸ ಸಿಂಹ"
+  },
+  {
+    "heroName": "Dr. Vishnuvardhan",
+    "questionEnglish": "In which movie did Dr. Vishnuvardhan make his debut as a hero?",
+    "questionKannada": "ಡಾ. ವಿಷ್ಣುವರ್ಧನ್ ಅವರು ನಾಯಕರಾಗಿ ಪಾದಾರ್ಪಣೆ ಮಾಡಿದ ಚಿತ್ರ ಯಾವುದು?",
+    "optionsEnglish": [
+      "Nagarahavu",
+      "Muttina Hara",
+      "Bandhana",
+      "Yajamana"
+    ],
+    "optionsKannada": [
+      "ನಾಗರಹಾವು",
+      "ಮುತ್ತಿನ ಹಾರ",
+      "ಬಂಧನ",
+      "ಯಜಮಾನ"
+    ],
+    "correctAnswerEnglish": "Nagarahavu",
+    "correctAnswerKannada": "ನಾಗರಹಾವು"
+  },
+  {
+    "heroName": "Dr. Vishnuvardhan",
+    "questionEnglish": "Dr. Vishnuvardhan's memorial is located in which city?",
+    "questionKannada": "ಡಾ. ವಿಷ್ಣುವರ್ಧನ್ ಅವರ ಸ್ಮಾರಕ ಯಾವ ನಗರದಲ್ಲಿದೆ?",
+    "optionsEnglish": [
+      "Mysuru",
+      "Bengaluru",
+      "Dharwad",
+      "Hubballi"
+    ],
+    "optionsKannada": [
+      "ಮೈಸೂರು",
+      "ಬೆಂಗಳೂರು",
+      "ಧಾರವಾಡ",
+      "ಹುಬ್ಬಳ್ಳಿ"
+    ],
+    "correctAnswerEnglish": "Mysuru",
+    "correctAnswerKannada": "ಮೈಸೂರು"
+  },
+  {
+    "heroName": "Basavanna",
+    "questionEnglish": "Who established the 'Anubhava Mantapa' in the 12th century?",
+    "questionKannada": "12ನೇ ಶತಮಾನದಲ್ಲಿ 'ಅನುಭವ ಮಂಟಪ'ವನ್ನು ಸ್ಥಾಪಿಸಿದವರು ಯಾರು?",
+    "optionsEnglish": [
+      "Basavanna",
+      "Allama Prabhu",
+      "Madhavacharya",
+      "Kanakadasa"
+    ],
+    "optionsKannada": [
+      "ಬಸವಣ್ಣ",
+      "ಅಲ್ಲಮ ಪ್ರಭು",
+      "ಮಧ್ವಾಚಾರ್ಯ",
+      "ಕನಕದಾಸ"
+    ],
+    "correctAnswerEnglish": "Basavanna",
+    "correctAnswerKannada": "ಬಸವಣ್ಣ"
+  },
+  {
+    "heroName": "Basavanna",
+    "questionEnglish": "What is the form of poetry written by Basavanna called?",
+    "questionKannada": "ಬಸವಣ್ಣನವರು ರಚಿಸಿದ ಕವಿತೆಗಳ ಪ್ರಕಾರವನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?",
+    "optionsEnglish": [
+      "Vachanas",
+      "Tripadis",
+      "Kirtanas",
+      "Shatpadis"
+    ],
+    "optionsKannada": [
+      "ವಚನಗಳು",
+      "ತ್ರಿಪದಿಗಳು",
+      "ಕೀರ್ತನೆಗಳು",
+      "ಷಟ್ಪದಿಗಳು"
+    ],
+    "correctAnswerEnglish": "Vachanas",
+    "correctAnswerKannada": "ವಚನಗಳು"
+  },
+  {
+    "heroName": "Basavanna",
+    "questionEnglish": "Basavanna was the prime minister in the court of which king?",
+    "questionKannada": "ಬಸವಣ್ಣನವರು ಯಾವ ರಾಜನ ಆಸ್ಥಾನದಲ್ಲಿ ಪ್ರಧಾನ ಮಂತ್ರಿಯಾಗಿದ್ದರು?",
+    "optionsEnglish": [
+      "Bijjala",
+      "Krishna Deva Raya",
+      "Pulakeshin II",
+      "Mayurasharma"
+    ],
+    "optionsKannada": [
+      "ಬಿಜ್ಜಳ",
+      "ಕೃಷ್ಣದೇವರಾಯ",
+      "ಎರಡನೇ ಪುಲಿಕೇಶಿ",
+      "ಮಯೂರಶರ್ಮ"
+    ],
+    "correctAnswerEnglish": "Bijjala",
+    "correctAnswerKannada": "ಬಿಜ್ಜಳ"
+  },
+  {
+    "heroName": "Sarvajna",
+    "questionEnglish": "Sarvajna is best known for which type of poetry?",
+    "questionKannada": "ಸರ್ವಜ್ಞ ಯಾವ ರೀತಿಯ ಕವನಗಳಿಗೆ ಹೆಚ್ಚು ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+    "optionsEnglish": [
+      "Tripadis (Three-lined poems)",
+      "Vachanas",
+      "Kirtanas",
+      "Blank Verse"
+    ],
+    "optionsKannada": [
+      "ತ್ರಿಪದಿಗಳು",
+      "ವಚನಗಳು",
+      "ಕೀರ್ತನೆಗಳು",
+      "ಸರಳ ರಗಳೆ"
+    ],
+    "correctAnswerEnglish": "Tripadis (Three-lined poems)",
+    "correctAnswerKannada": "ತ್ರಿಪದಿಗಳು"
+  },
+  {
+    "heroName": "Sarvajna",
+    "questionEnglish": "What does the name 'Sarvajna' mean?",
+    "questionKannada": "'ಸರ್ವಜ್ಞ' ಎಂಬ ಹೆಸರಿನ ಅರ್ಥವೇನು?",
+    "optionsEnglish": [
+      "The All-Knowing",
+      "The Strong",
+      "The Poet",
+      "The Traveler"
+    ],
+    "optionsKannada": [
+      "ಎಲ್ಲವನ್ನೂ ಬಲ್ಲವನು",
+      "ಬಲಿಷ್ಠ",
+      "ಕವಿ",
+      "ಪ್ರವಾಸಿ"
+    ],
+    "correctAnswerEnglish": "The All-Knowing",
+    "correctAnswerKannada": "ಎಲ್ಲವನ್ನೂ ಬಲ್ಲವನು"
+  },
+  {
+    "heroName": "Sarvajna",
+    "questionEnglish": "In which district is the birthplace of Sarvajna believed to be?",
+    "questionKannada": "ಸರ್ವಜ್ಞ ಹುಟ್ಟಿದ ಸ್ಥಳ ಯಾವ ಜಿಲ್ಲೆಯಲ್ಲಿದೆ ಎಂದು ನಂಬಲಾಗಿದೆ?",
+    "optionsEnglish": [
+      "Haveri",
+      "Dharwad",
+      "Gadag",
+      "Shimoga"
+    ],
+    "optionsKannada": [
+      "ಹಾವೇರಿ",
+      "ಧಾರವಾಡ",
+      "ಗದಗ",
+      "ಶಿವಮೊಗ್ಗ"
+    ],
+    "correctAnswerEnglish": "Haveri",
+    "correctAnswerKannada": "ಹಾವೇರಿ"
+  },
+  {
+    "heroName": "Karnad Sadashiva Rao",
+
+    "questionEnglish": "Karnad Sadashiva Rao was associated with which movement?",
+    "questionKannada": "ಕರ್ಣಾಡ್ ಸದಾಶಿವ ರಾವ್ ಯಾವ ಚಳವಳಿಗೆ ಸಂಬಂಧಿಸಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Indian Freedom Movement",
+      "Green Revolution",
+      "Space Research",
+      "Industrial Revolution"
+    ],
+
+    "optionsKannada": [
+      "ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ",
+      "ಹಸಿರು ಕ್ರಾಂತಿ",
+      "ಅಂತರಿಕ್ಷ ಸಂಶೋಧನೆ",
+      "ಕೈಗಾರಿಕಾ ಕ್ರಾಂತಿ"
+    ],
+
+    "correctAnswerEnglish": "Indian Freedom Movement",
+    "correctAnswerKannada": "ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ಚಳವಳಿ"
+  },
+  {
+    "heroName": "Karnad Sadashiva Rao",
+
+    "questionEnglish": "Which region was Karnad Sadashiva Rao from?",
+    "questionKannada": "ಕರ್ಣಾಡ್ ಸದಾಶಿವ ರಾವ್ ಯಾವ ಪ್ರದೇಶದವರು?",
+
+    "optionsEnglish": [
+      "Mangaluru",
+      "Belagavi",
+      "Kalaburagi",
+      "Tumakuru"
+    ],
+
+    "optionsKannada": [
+      "ಮಂಗಳೂರು",
+      "ಬೆಳಗಾವಿ",
+      "ಕಲಬುರಗಿ",
+      "ತುಮಕೂರು"
+    ],
+
+    "correctAnswerEnglish": "Mangaluru",
+    "correctAnswerKannada": "ಮಂಗಳೂರು"
+  },
+  {
+    "heroName": "Karnad Sadashiva Rao",
+
+    "questionEnglish": "What did Karnad Sadashiva Rao promote among people?",
+    "questionKannada": "ಕರ್ಣಾಡ್ ಸದಾಶಿವ ರಾವ್ ಜನರಲ್ಲಿ ಏನನ್ನು ಉತ್ತೇಜಿಸಿದರು?",
+
+    "optionsEnglish": [
+      "Patriotism and unity",
+      "Foreign trade",
+      "Luxury lifestyle",
+      "Entertainment"
+    ],
+
+    "optionsKannada": [
+      "ದೇಶಭಕ್ತಿ ಮತ್ತು ಏಕತೆ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಐಷಾರಾಮಿ ಜೀವನ",
+      "ಮನರಂಜನೆ"
+    ],
+
+    "correctAnswerEnglish": "Patriotism and unity",
+    "correctAnswerKannada": "ದೇಶಭಕ್ತಿ ಮತ್ತು ಏಕತೆ"
+  },
+  {
+    "heroName": "Pandit Taranath",
+    "questionEnglish": "Pandit Taranath was famous for expertise in which field?",
+    "questionKannada": "ಪಂಡಿತ್ ತಾರಾನಾಥರು ಯಾವ ಕ್ಷೇತ್ರದಲ್ಲಿ ಪರಿಣತಿ ಹೊಂದಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Yoga",
+      "Astronomy",
+      "Painting",
+      "Architecture"
+    ],
+
+    "optionsKannada": [
+      "ಯೋಗ",
+      "ಖಗೋಳಶಾಸ್ತ್ರ",
+      "ಚಿತ್ರಕಲೆ",
+      "ವಾಸ್ತುಶಿಲ್ಪ"
+    ],
+
+    "correctAnswerEnglish": "Yoga",
+    "correctAnswerKannada": "ಯೋಗ"
+  },
+  {
+    "heroName": "Pandit Taranath",
+    "questionEnglish": "Which liberation movement did Pandit Taranath support?",
+    "questionKannada": "ಪಂಡಿತ್ ತಾರಾನಾಥರು ಯಾವ ವಿಮೋಚನಾ ಚಳವಳಿಗೆ ಬೆಂಬಲ ನೀಡಿದರು?",
+
+    "optionsEnglish": [
+      "Hyderabad-Karnataka Liberation",
+      "Quit India Movement",
+      "Salt Satyagraha",
+      "Swadeshi Movement"
+    ],
+
+    "optionsKannada": [
+      "ಹೈದರಾಬಾದ್ ಕರ್ನಾಟಕ ವಿಮೋಚನೆ",
+      "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳವಳಿ",
+      "ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹ",
+      "ಸ್ವದೇಶಿ ಚಳವಳಿ"
+    ],
+
+    "correctAnswerEnglish": "Hyderabad-Karnataka Liberation",
+    "correctAnswerKannada": "ಹೈದರಾಬಾದ್ ಕರ್ನಾಟಕ ವಿಮೋಚನೆ"
+  },
+  {
+    "heroName": "Pandit Taranath",
+    "questionEnglish": "What was the name of the ashram founded by Pandit Taranath?",
+    "questionKannada": "ಪಂಡಿತ್ ತಾರಾನಾಥರು ಸ್ಥಾಪಿಸಿದ ಆಶ್ರಮದ ಹೆಸರು ಏನು?",
+
+    "optionsEnglish": [
+      "Premayathana Ashram",
+      "Shanti Ashram",
+      "Yoga Nilaya",
+      "Jnana Peetha"
+    ],
+
+    "optionsKannada": [
+      "ಪ್ರೇಮಯಥಾನ ಆಶ್ರಮ",
+      "ಶಾಂತಿ ಆಶ್ರಮ",
+      "ಯೋಗ ನಿಲಯ",
+      "ಜ್ಞಾನ ಪೀಠ"
+    ],
+
+    "correctAnswerEnglish": "Premayathana Ashram",
+    "correctAnswerKannada": "ಪ್ರೇಮಯಥಾನ ಆಶ್ರಮ"
+  },
+  {
+    "heroName": "Hardekar Manjappa",
+    "questionEnglish": "What was Hardekar Manjappa popularly called?",
+    "questionKannada": "ಹಾರ್ದೇಕರ್ ಮಂಜಪ್ಪರನ್ನು ಜನರು ಏನೆಂದು ಕರೆಯುತ್ತಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Gandhi of Karnataka",
+      "Lion of Mysore",
+      "Tiger of Karnataka",
+      "Karnataka Kesari"
+    ],
+
+    "optionsKannada": [
+      "ಕರ್ನಾಟಕದ ಗಾಂಧಿ",
+      "ಮೈಸೂರಿನ ಸಿಂಹ",
+      "ಕರ್ನಾಟಕ ಹುಲಿ",
+      "ಕರ್ನಾಟಕ ಕೇಸರಿ"
+    ],
+
+    "correctAnswerEnglish": "Gandhi of Karnataka",
+    "correctAnswerKannada": "ಕರ್ನಾಟಕದ ಗಾಂಧಿ"
+  },
+  {
+    "heroName": "Hardekar Manjappa",
+    "questionEnglish": "Which leader’s ideals inspired Hardekar Manjappa?",
+    "questionKannada": "ಹಾರ್ದೇಕರ್ ಮಂಜಪ್ಪರಿಗೆ ಯಾವ ನಾಯಕರ ಆದರ್ಶಗಳು ಪ್ರೇರಣೆಯಾಗಿದ್ದವು?",
+
+    "optionsEnglish": [
+      "Mahatma Gandhi",
+      "Subhash Chandra Bose",
+      "Bhagat Singh",
+      "Bal Gangadhar Tilak"
+    ],
+
+    "optionsKannada": [
+      "ಮಹಾತ್ಮ ಗಾಂಧಿ",
+      "ಸುಭಾಷ್ ಚಂದ್ರ ಬೋಸ್",
+      "ಭಗತ್ ಸಿಂಗ್",
+      "ಬಾಳ ಗಂಗಾಧರ ತಿಲಕ್"
+    ],
+
+    "correctAnswerEnglish": "Mahatma Gandhi",
+    "correctAnswerKannada": "ಮಹಾತ್ಮ ಗಾಂಧಿ"
+  },
+  {
+    "heroName": "Hardekar Manjappa",
+    "questionEnglish": "What did Hardekar Manjappa promote across Karnataka?",
+    "questionKannada": "ಹಾರ್ದೇಕರ್ ಮಂಜಪ್ಪರು ಕರ್ನಾಟಕದಾದ್ಯಂತ ಏನನ್ನು ಪ್ರಚಾರ ಮಾಡಿದರು?",
+
+    "optionsEnglish": [
+      "Khadi and social equality",
+      "Foreign trade",
+      "Industrialization",
+      "Royal culture"
+    ],
+
+    "optionsKannada": [
+      "ಖಾದಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಮಾನತೆ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಕೈಗಾರಿಕೀಕರಣ",
+      "ರಾಜಕೀಯ ಸಂಸ್ಕೃತಿ"
+    ],
+
+    "correctAnswerEnglish": "Khadi and social equality",
+    "correctAnswerKannada": "ಖಾದಿ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಮಾನತೆ"
+  },
+  {
+    "heroName": "G.K. Badami",
+    "questionEnglish": "G.K. Badami was famous as which professional?",
+    "questionKannada": "ಜಿ.ಕೆ. ಬಾದಾಮಿ ಯಾವ ವೃತ್ತಿಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Lawyer",
+      "Doctor",
+      "Engineer",
+      "Teacher"
+    ],
+
+    "optionsKannada": [
+      "ವಕೀಲ",
+      "ವೈದ್ಯ",
+      "ಅಭಿಯಂತರ",
+      "ಶಿಕ್ಷಕ"
+    ],
+
+    "correctAnswerEnglish": "Lawyer",
+    "correctAnswerKannada": "ವಕೀಲ"
+  },
+  {
+    "heroName": "G.K. Badami",
+    "questionEnglish": "Which movement did G.K. Badami actively participate in?",
+    "questionKannada": "ಜಿ.ಕೆ. ಬಾದಾಮಿ ಯಾವ ಚಳವಳಿಯಲ್ಲಿ ಸಕ್ರಿಯವಾಗಿ ಭಾಗವಹಿಸಿದರು?",
+
+    "optionsEnglish": [
+      "Hyderabad-Karnataka Liberation",
+      "Chipko Movement",
+      "Quit India Movement",
+      "Swadeshi Movement"
+    ],
+
+    "optionsKannada": [
+      "ಹೈದರಾಬಾದ್ ಕರ್ನಾಟಕ ವಿಮೋಚನೆ",
+      "ಚಿಪ್ಕೋ ಚಳವಳಿ",
+      "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳವಳಿ",
+      "ಸ್ವದೇಶಿ ಚಳವಳಿ"
+    ],
+
+    "correctAnswerEnglish": "Hyderabad-Karnataka Liberation",
+    "correctAnswerKannada": "ಹೈದರಾಬಾದ್ ಕರ್ನಾಟಕ ವಿಮೋಚನೆ"
+  },
+  {
+    "heroName": "G.K. Badami",
+    "questionEnglish": "Which region did G.K. Badami belong to?",
+    "questionKannada": "ಜಿ.ಕೆ. ಬಾದಾಮಿ ಯಾವ ಪ್ರದೇಶದವರು?",
+
+    "optionsEnglish": [
+      "Raichur",
+      "Mysuru",
+      "Belagavi",
+      "Udupi"
+    ],
+
+    "optionsKannada": [
+      "ರಾಯಚೂರು",
+      "ಮೈಸೂರು",
+      "ಬೆಳಗಾವಿ",
+      "ಉಡುಪಿ"
+    ],
+
+    "correctAnswerEnglish": "Raichur",
+    "correctAnswerKannada": "ರಾಯಚೂರು"
+  },
+  {
+    "heroName": "Poornachandra Tejaswi",
+    "questionEnglish": "Poornachandra Tejaswi was famous as what?",
+    "questionKannada": "ಪೂರ್ಣಚಂದ್ರ ತೇಜಸ್ವಿ ಯಾವ ಕ್ಷೇತ್ರಕ್ಕೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Writer and environmentalist",
+      "Scientist",
+      "King",
+      "Musician"
+    ],
+
+    "optionsKannada": [
+      "ಸಾಹಿತಿ ಮತ್ತು ಪರಿಸರವಾದಿ",
+      "ವಿಜ್ಞಾನಿ",
+      "ರಾಜ",
+      "ಸಂಗೀತಗಾರ"
+    ],
+
+    "correctAnswerEnglish": "Writer and environmentalist",
+    "correctAnswerKannada": "ಸಾಹಿತಿ ಮತ್ತು ಪರಿಸರವಾದಿ"
+  },
+  {
+    "heroName": "Poornachandra Tejaswi",
+    "questionEnglish": "Who was the father of Poornachandra Tejaswi?",
+    "questionKannada": "ಪೂರ್ಣಚಂದ್ರ ತೇಜಸ್ವಿಯವರ ತಂದೆ ಯಾರು?",
+
+    "optionsEnglish": [
+      "Kuvempu",
+      "Bendre",
+      "Kanakadasa",
+      "Masti"
+    ],
+
+    "optionsKannada": [
+      "ಕುವೆಂಪು",
+      "ಬೇಂದ್ರೆ",
+      "ಕನಕದಾಸ",
+      "ಮಾಸ್ತಿ"
+    ],
+
+    "correctAnswerEnglish": "Kuvempu",
+    "correctAnswerKannada": "ಕುವೆಂಪು"
+  },
+  {
+    "heroName": "Poornachandra Tejaswi",
+    "questionEnglish": "Which field was Tejaswi deeply interested in besides literature?",
+    "questionKannada": "ಸಾಹಿತ್ಯದ ಜೊತೆಗೆ ತೇಜಸ್ವಿಯವರಿಗೆ ಯಾವ ಕ್ಷೇತ್ರದಲ್ಲಿ ಹೆಚ್ಚಿನ ಆಸಕ್ತಿ ಇತ್ತು?",
+
+    "optionsEnglish": [
+      "Nature and photography",
+      "Politics",
+      "Dance",
+      "Business"
+    ],
+
+    "optionsKannada": [
+      "ಪ್ರಕೃತಿ ಮತ್ತು ಛಾಯಾಗ್ರಹಣ",
+      "ರಾಜಕೀಯ",
+      "ನೃತ್ಯ",
+      "ವ್ಯವಹಾರ"
+    ],
+
+    "correctAnswerEnglish": "Nature and photography",
+    "correctAnswerKannada": "ಪ್ರಕೃತಿ ಮತ್ತು ಛಾಯಾಗ್ರಹಣ"
+  },
+  {
+    "heroName": "Baba Budangiri",
+    "questionEnglish": "Baba Budangiri is associated with which crop in India?",
+    "questionKannada": "ಬಾಬಾ ಬುಡನ್ ಭಾರತದಲ್ಲಿ ಯಾವ ಬೆಳೆಗೂ ಸಂಬಂಧಪಟ್ಟಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Coffee",
+      "Tea",
+      "Pepper",
+      "Cardamom"
+    ],
+
+    "optionsKannada": [
+      "ಕಾಫಿ",
+      "ಚಹಾ",
+      "ಮೆಣಸು",
+      "ಏಲಕ್ಕಿ"
+    ],
+
+    "correctAnswerEnglish": "Coffee",
+    "correctAnswerKannada": "ಕಾಫಿ"
+  },
+  {
+    "heroName": "Baba Budangiri",
+    "questionEnglish": "Which hills are named after Baba Budan?",
+    "questionKannada": "ಯಾವ ಬೆಟ್ಟಗಳಿಗೆ ಬಾಬಾ ಬುಡನ್ ಅವರ ಹೆಸರು ಇಡಲಾಗಿದೆ?",
+
+    "optionsEnglish": [
+      "Baba Budangiri Hills",
+      "Nandi Hills",
+      "Chamundi Hills",
+      "Agumbe Hills"
+    ],
+
+    "optionsKannada": [
+      "ಬಾಬಾ ಬುಡನ್ ಗಿರಿ ಬೆಟ್ಟಗಳು",
+      "ನಂದಿ ಬೆಟ್ಟಗಳು",
+      "ಚಾಮುಂಡಿ ಬೆಟ್ಟಗಳು",
+      "ಅಗುಂಭೆ ಬೆಟ್ಟಗಳು"
+    ],
+
+    "correctAnswerEnglish": "Baba Budangiri Hills",
+    "correctAnswerKannada": "ಬಾಬಾ ಬುಡನ್ ಗಿರಿ ಬೆಟ್ಟಗಳು"
+  },
+  {
+    "heroName": "Baba Budangiri",
+    "questionEnglish": "Baba Budangiri is located in which district?",
+    "questionKannada": "ಬಾಬಾ ಬುಡನ್ ಗಿರಿ ಯಾವ ಜಿಲ್ಲೆಯಲ್ಲಿ ಇದೆ?",
+
+    "optionsEnglish": [
+      "Chikkamagaluru",
+      "Kodagu",
+      "Shivamogga",
+      "Hassan"
+    ],
+
+    "optionsKannada": [
+      "ಚಿಕ್ಕಮಗಳೂರು",
+      "ಕೊಡಗು",
+      "ಶಿವಮೊಗ್ಗ",
+      "ಹಾಸನ"
+    ],
+
+    "correctAnswerEnglish": "Chikkamagaluru",
+    "correctAnswerKannada": "ಚಿಕ್ಕಮಗಳೂರು"
+  },
+  {
+    "heroName": "Keladi Chennamma",
+    "questionEnglish": "Keladi Chennamma gave shelter to which Maratha ruler?",
+    "questionKannada": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಯಾವ ಮರಾಠ ರಾಜನಿಗೆ ಆಶ್ರಯ ನೀಡಿದರು?",
+
+    "optionsEnglish": [
+      "Rajaram",
+      "Shivaji",
+      "Sambhaji",
+      "Shahu"
+    ],
+
+    "optionsKannada": [
+      "ರಾಜಾರಾಮ",
+      "ಶಿವಾಜಿ",
+      "ಸಂಭಾಜಿ",
+      "ಶಾಹು"
+    ],
+
+    "correctAnswerEnglish": "Rajaram",
+    "correctAnswerKannada": "ರಾಜಾರಾಮ"
+  },
+  {
+    "heroName": "Keladi Chennamma",
+    "questionEnglish": "Which empire did Keladi Chennamma oppose?",
+    "questionKannada": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮ ಯಾವ ಸಾಮ್ರಾಜ್ಯದ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?",
+
+    "optionsEnglish": [
+      "Mughals",
+      "British",
+      "Portuguese",
+      "French"
+    ],
+
+    "optionsKannada": [
+      "ಮುಘಲರು",
+      "ಬ್ರಿಟಿಷರು",
+      "ಪೋರ್ಚುಗೀಸರು",
+      "ಫ್ರೆಂಚರು"
+    ],
+
+    "correctAnswerEnglish": "Mughals",
+    "correctAnswerKannada": "ಮುಘಲರು"
+  },
+  {
+    "heroName": "Keladi Chennamma",
+    "questionEnglish": "Keladi Chennamma is remembered for which quality?",
+    "questionKannada": "ಕೆಳದಿ ಚೆನ್ನಮ್ಮರನ್ನು ಯಾವ ಗುಣಕ್ಕಾಗಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Bravery and leadership",
+      "Music",
+      "Painting",
+      "Trade"
+    ],
+
+    "optionsKannada": [
+      "ಧೈರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ",
+      "ಸಂಗೀತ",
+      "ಚಿತ್ರಕಲೆ",
+      "ವ್ಯಾಪಾರ"
+    ],
+
+    "correctAnswerEnglish": "Bravery and leadership",
+    "correctAnswerKannada": "ಧೈರ್ಯ ಮತ್ತು ನಾಯಕತ್ವ"
+  },
+  {
+    "heroName": "General K.S. Thimayya",
+    "questionEnglish": "General K.S. Thimayya served in which force?",
+    "questionKannada": "ಜನರಲ್ ಕೆ.ಎಸ್. ತಿಮ್ಮಯ್ಯ ಯಾವ ಪಡೆಯಲ್ಲಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Indian Army",
+      "Indian Navy",
+      "Indian Air Force",
+      "Police Force"
+    ],
+
+    "optionsKannada": [
+      "ಭಾರತೀಯ ಸೇನೆ",
+      "ಭಾರತೀಯ ನೌಕಾಪಡೆ",
+      "ಭಾರತೀಯ ವಾಯುಪಡೆ",
+      "ಪೊಲೀಸ್ ಪಡೆ"
+    ],
+
+    "correctAnswerEnglish": "Indian Army",
+    "correctAnswerKannada": "ಭಾರತೀಯ ಸೇನೆ"
+  },
+  {
+    "heroName": "General K.S. Thimayya",
+    "questionEnglish": "Which war hero is General Thimayya remembered as?",
+    "questionKannada": "ಜನರಲ್ ತಿಮ್ಮಯ್ಯರನ್ನು ಯಾವ ಯುದ್ಧ ವೀರರಾಗಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Kodagu war hero",
+      "Mysore king",
+      "Freedom poet",
+      "Scientist"
+    ],
+
+    "optionsKannada": [
+      "ಕೊಡಗಿನ ಯುದ್ಧ ವೀರ",
+      "ಮೈಸೂರು ರಾಜ",
+      "ಸ್ವಾತಂತ್ರ್ಯ ಕವಿ",
+      "ವಿಜ್ಞಾನಿ"
+    ],
+
+    "correctAnswerEnglish": "Kodagu war hero",
+    "correctAnswerKannada": "ಕೊಡಗಿನ ಯುದ್ಧ ವೀರ"
+  },
+  {
+    "heroName": "General K.S. Thimayya",
+    "questionEnglish": "What is the name of General Thimayya’s house museum?",
+    "questionKannada": "ಜನರಲ್ ತಿಮ್ಮಯ್ಯರ ಮನೆ ಸಂಗ್ರಹಾಲಯದ ಹೆಸರು ಏನು?",
+
+    "optionsEnglish": [
+      "Sunny Side",
+      "Victory House",
+      "Army Palace",
+      "Hill View"
+    ],
+
+    "optionsKannada": [
+      "ಸನ್ನಿ ಸೈಡ್",
+      "ವಿಕ್ಟರಿ ಹೌಸ್",
+      "ಆರ್ಮಿ ಪ್ಯಾಲೆಸ್",
+      "ಹಿಲ್ ವ್ಯೂ"
+    ],
+
+    "correctAnswerEnglish": "Sunny Side",
+    "correctAnswerKannada": "ಸನ್ನಿ ಸೈಡ್"
+  },
+  {
+    "heroName": "Jayachamarajendra Wadiyar",
+
+    "questionEnglish": "Jayachamarajendra Wadiyar was the last ruler of which kingdom?",
+    "questionKannada": "ಜಯಚಾಮರಾಜೇಂದ್ರ ಒಡೆಯರು ಯಾವ ಸಂಸ್ಥಾನದ ಕೊನೆಯ ಆಡಳಿತಗಾರರಾಗಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Mysore Kingdom",
+      "Keladi Kingdom",
+      "Kittur Kingdom",
+      "Vijayanagara Empire"
+    ],
+
+    "optionsKannada": [
+      "ಮೈಸೂರು ಸಂಸ್ಥಾನ",
+      "ಕೆಳದಿ ಸಂಸ್ಥಾನ",
+      "ಕಿತ್ತೂರು ಸಂಸ್ಥಾನ",
+      "ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ"
+    ],
+
+    "correctAnswerEnglish": "Mysore Kingdom",
+    "correctAnswerKannada": "ಮೈಸೂರು ಸಂಸ್ಥಾನ"
+  },
+  {
+    "heroName": "Jayachamarajendra Wadiyar",
+
+    "questionEnglish": "Which field was Jayachamarajendra Wadiyar deeply interested in?",
+    "questionKannada": "ಜಯಚಾಮರಾಜೇಂದ್ರ ಒಡೆಯರಿಗೆ ಯಾವ ಕ್ಷೇತ್ರದಲ್ಲಿ ಹೆಚ್ಚಿನ ಆಸಕ್ತಿ ಇತ್ತು?",
+
+    "optionsEnglish": [
+      "Music and arts",
+      "Space science",
+      "Military warfare",
+      "Agriculture"
+    ],
+
+    "optionsKannada": [
+      "ಸಂಗೀತ ಮತ್ತು ಕಲೆ",
+      "ಅಂತರಿಕ್ಷ ವಿಜ್ಞಾನ",
+      "ಸೈನಿಕ ಯುದ್ಧ",
+      "ಕೃಷಿ"
+    ],
+
+    "correctAnswerEnglish": "Music and arts",
+    "correctAnswerKannada": "ಸಂಗೀತ ಮತ್ತು ಕಲೆ"
+  },
+  {
+    "heroName": "Jayachamarajendra Wadiyar",
+
+    "questionEnglish": "Which city is strongly associated with Jayachamarajendra Wadiyar?",
+    "questionKannada": "ಜಯಚಾಮರಾಜೇಂದ್ರ ಒಡೆಯರೊಂದಿಗೆ ಯಾವ ನಗರ ಹೆಚ್ಚು ಸಂಬಂಧಿಸಿದೆ?",
+
+    "optionsEnglish": [
+      "Mysuru",
+      "Hubballi",
+      "Mangaluru",
+      "Bidar"
+    ],
+
+    "optionsKannada": [
+      "ಮೈಸೂರು",
+      "ಹುಬ್ಬಳ್ಳಿ",
+      "ಮಂಗಳೂರು",
+      "ಬೀದರ್"
+    ],
+
+    "correctAnswerEnglish": "Mysuru",
+    "correctAnswerKannada": "ಮೈಸೂರು"
+  },
+  {
+    "heroName": "Vidurashwatha Martyrs",
+
+    "questionEnglish": "Vidurashwatha is known for which historic incident?",
+    "questionKannada": "ವಿದುರಾಶ್ವತ ಯಾವ ಐತಿಹಾಸಿಕ ಘಟನೆಗಾಗಿ ಪ್ರಸಿದ್ಧವಾಗಿದೆ?",
+
+    "optionsEnglish": [
+      "Freedom struggle firing incident",
+      "Battle of Talikota",
+      "Salt Satyagraha",
+      "Mysore Dasara"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದ ಗುಂಡಿನ ದಾಳಿ",
+      "ತಾಳಿಕೋಟೆ ಯುದ್ಧ",
+      "ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹ",
+      "ಮೈಸೂರು ದಸರಾ"
+    ],
+
+    "correctAnswerEnglish": "Freedom struggle firing incident",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟದ ಗುಂಡಿನ ದಾಳಿ"
+  },
+  {
+    "heroName": "Vidurashwatha Martyrs",
+
+    "questionEnglish": "In which district is Vidurashwatha located?",
+    "questionKannada": "ವಿದುರಾಶ್ವತ ಯಾವ ಜಿಲ್ಲೆಯಲ್ಲಿ ಇದೆ?",
+
+    "optionsEnglish": [
+      "Chikkaballapura",
+      "Mysuru",
+      "Belagavi",
+      "Raichur"
+    ],
+
+    "optionsKannada": [
+      "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+      "ಮೈಸೂರು",
+      "ಬೆಳಗಾವಿ",
+      "ರಾಯಚೂರು"
+    ],
+
+    "correctAnswerEnglish": "Chikkaballapura",
+    "correctAnswerKannada": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ"
+  },
+  {
+    "heroName": "Vidurashwatha Martyrs",
+
+    "questionEnglish": "Vidurashwatha is often called the 'Jallianwala Bagh of Karnataka'.",
+    "questionKannada": "ವಿದುರಾಶ್ವತವನ್ನು ಕರ್ನಾಟಕದ 'ಜಲಿಯನ್‌ವಾಲಾ ಬಾಗ್' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ.",
+
+    "optionsEnglish": [
+      "True",
+      "False",
+      "Only after independence",
+      "Only during Mysore rule"
+    ],
+
+    "optionsKannada": [
+      "ಸರಿ",
+      "ತಪ್ಪು",
+      "ಸ್ವಾತಂತ್ರ್ಯ ನಂತರ ಮಾತ್ರ",
+      "ಮೈಸೂರು ಆಡಳಿತದಲ್ಲಿ ಮಾತ್ರ"
+    ],
+
+    "correctAnswerEnglish": "True",
+    "correctAnswerKannada": "ಸರಿ"
+  },
+  {
+    "heroName": "Sri Bandappa Shesharao",
+
+    "questionEnglish": "Sri Bandappa Shesharao was associated with which region?",
+    "questionKannada": "ಶ್ರೀ ಬಂಡಪ್ಪ ಶೇಷರಾವ್ ಯಾವ ಭಾಗಕ್ಕೆ ಸಂಬಂಧಿಸಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Hyderabad-Karnataka",
+      "Coastal Karnataka",
+      "Kodagu",
+      "Mysore Region"
+    ],
+
+    "optionsKannada": [
+      "ಹೈದರಾಬಾದ್ ಕರ್ನಾಟಕ",
+      "ಕರಾವಳಿ ಕರ್ನಾಟಕ",
+      "ಕೊಡಗು",
+      "ಮೈಸೂರು ಪ್ರದೇಶ"
+    ],
+
+    "correctAnswerEnglish": "Hyderabad-Karnataka",
+    "correctAnswerKannada": "ಹೈದರಾಬಾದ್ ಕರ್ನಾಟಕ"
+  },
+  {
+    "heroName": "Sri Bandappa Shesharao",
+
+    "questionEnglish": "What did Sri Bandappa Shesharao strongly promote?",
+    "questionKannada": "ಶ್ರೀ ಬಂಡಪ್ಪ ಶೇಷರಾವ್ ಯಾವ ವಿಷಯವನ್ನು ಹೆಚ್ಚು ಉತ್ತೇಜಿಸಿದರು?",
+
+    "optionsEnglish": [
+      "Education and social equality",
+      "Foreign trade",
+      "Industrial warfare",
+      "Royal traditions"
+    ],
+
+    "optionsKannada": [
+      "ಶಿಕ್ಷಣ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಮಾನತೆ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಕೈಗಾರಿಕಾ ಯುದ್ಧ",
+      "ರಾಜ ಪರಂಪರೆ"
+    ],
+
+    "correctAnswerEnglish": "Education and social equality",
+    "correctAnswerKannada": "ಶಿಕ್ಷಣ ಮತ್ತು ಸಾಮಾಜಿಕ ಸಮಾನತೆ"
+  },
+  {
+    "heroName": "Sri Bandappa Shesharao",
+
+    "questionEnglish": "Sri Bandappa Shesharao is remembered for his contribution to?",
+    "questionKannada": "ಶ್ರೀ ಬಂಡಪ್ಪ ಶೇಷರಾವ್ ಯಾವ ಕ್ಷೇತ್ರದ ಕೊಡುಗೆಗಾಗಿ ನೆನಪಾಗುತ್ತಾರೆ?",
+
+    "optionsEnglish": [
+      "Freedom struggle and public service",
+      "Film industry",
+      "Space research",
+      "Classical dance"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಸೇವೆ",
+      "ಚಿತ್ರರಂಗ",
+      "ಅಂತರಿಕ್ಷ ಸಂಶೋಧನೆ",
+      "ಶಾಸ್ತ್ರೀಯ ನೃತ್ಯ"
+    ],
+
+    "correctAnswerEnglish": "Freedom struggle and public service",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಸೇವೆ"
+  },
+  {
+    "heroName": "Rani Chennabhairadevi",
+
+    "questionEnglish": "What title was given to Rani Chennabhairadevi?",
+    "questionKannada": "ರಾಣಿ ಚೆನ್ನಭೈರಾದೇವಿಗೆ ಯಾವ ಬಿರುದು ನೀಡಲಾಗಿತ್ತು?",
+
+    "optionsEnglish": [
+      "Pepper Queen of Karnataka",
+      "Queen of Mysore",
+      "Lion Queen",
+      "Golden Queen"
+    ],
+
+    "optionsKannada": [
+      "ಕರ್ನಾಟಕದ ಮೆಣಸಿನ ರಾಣಿ",
+      "ಮೈಸೂರಿನ ರಾಣಿ",
+      "ಸಿಂಹ ರಾಣಿ",
+      "ಸುವರ್ಣ ರಾಣಿ"
+    ],
+
+    "correctAnswerEnglish": "Pepper Queen of Karnataka",
+    "correctAnswerKannada": "ಕರ್ನಾಟಕದ ಮೆಣಸಿನ ರಾಣಿ"
+  },
+  {
+    "heroName": "Rani Chennabhairadevi",
+
+    "questionEnglish": "Which foreign power did Rani Chennabhairadevi resist?",
+    "questionKannada": "ರಾಣಿ ಚೆನ್ನಭೈರಾದೇವಿ ಯಾವ ವಿದೇಶಿ ಶಕ್ತಿಯನ್ನು ಎದುರಿಸಿದರು?",
+
+    "optionsEnglish": [
+      "Portuguese",
+      "British",
+      "French",
+      "Dutch"
+    ],
+
+    "optionsKannada": [
+      "ಪೋರ್ಚುಗೀಸರು",
+      "ಬ್ರಿಟಿಷರು",
+      "ಫ್ರೆಂಚರು",
+      "ಡಚ್"
+    ],
+
+    "correctAnswerEnglish": "Portuguese",
+    "correctAnswerKannada": "ಪೋರ್ಚುಗೀಸರು"
+  },
+  {
+    "heroName": "Rani Chennabhairadevi",
+
+    "questionEnglish": "Which kingdom was ruled by Rani Chennabhairadevi?",
+    "questionKannada": "ರಾಣಿ ಚೆನ್ನಭೈರಾದೇವಿ ಯಾವ ರಾಜ್ಯವನ್ನು ಆಳಿದರು?",
+
+    "optionsEnglish": [
+      "Gerusoppa",
+      "Kittur",
+      "Keladi",
+      "Mysore"
+    ],
+
+    "optionsKannada": [
+      "ಗೇರುಸೊಪ್ಪ",
+      "ಕಿತ್ತೂರು",
+      "ಕೆಳದಿ",
+      "ಮೈಸೂರು"
+    ],
+
+    "correctAnswerEnglish": "Gerusoppa",
+    "correctAnswerKannada": "ಗೇರುಸೊಪ್ಪ"
+  },
+  {
+    "heroName": "Sri Sri Sri Balagangadharanatha Swamiji",
+
+    "questionEnglish": "Sri Sri  Sri Balagangadharanatha Swamiji was the head of which Math?",
+    "questionKannada": "ಶ್ರೀ ಶ್ರೀ ಬಾಲಗಂಗಾಧರನಾಥ ಸ್ವಾಮೀಜಿಗಳು ಯಾವ ಮಠದ ಪೀಠಾಧಿಪತಿಗಳಾಗಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Adichunchanagiri Math",
+      "Sringeri Math",
+      "Udupi Math",
+      "Suttur Math"
+    ],
+
+    "optionsKannada": [
+      "ಆದಿಚುಂಚನಗಿರಿ ಮಠ",
+      "ಶೃಂಗೇರಿ ಮಠ",
+      "ಉಡುಪಿ ಮಠ",
+      "ಸುತ್ತೂರು ಮಠ"
+    ],
+
+    "correctAnswerEnglish": "Adichunchanagiri Math",
+    "correctAnswerKannada": "ಆದಿಚುಂಚನಗಿರಿ ಮಠ"
+  },
+  {
+    "heroName": "Sri Sri Sri Balagangadharanatha Swamiji",
+
+    "questionEnglish": "Which fields did Swamiji mainly contribute to?",
+    "questionKannada": "ಸ್ವಾಮೀಜಿಗಳು ಮುಖ್ಯವಾಗಿ ಯಾವ ಕ್ಷೇತ್ರಗಳಿಗೆ ಕೊಡುಗೆ ನೀಡಿದರು?",
+
+    "optionsEnglish": [
+      "Education and social service",
+      "Film industry",
+      "Military science",
+      "Space research"
+    ],
+
+    "optionsKannada": [
+      "ಶಿಕ್ಷಣ ಮತ್ತು ಸಮಾಜ ಸೇವೆ",
+      "ಚಿತ್ರರಂಗ",
+      "ಸೈನಿಕ ವಿಜ್ಞಾನ",
+      "ಅಂತರಿಕ್ಷ ಸಂಶೋಧನೆ"
+    ],
+
+    "correctAnswerEnglish": "Education and social service",
+    "correctAnswerKannada": "ಶಿಕ್ಷಣ ಮತ್ತು ಸಮಾಜ ಸೇವೆ"
+  },
+  {
+    "heroName": "Sri Sri Sri Balagangadharanatha Swamiji",
+
+    "questionEnglish": "What did Swamiji strongly promote in society?",
+    "questionKannada": "ಸ್ವಾಮೀಜಿಗಳು ಸಮಾಜದಲ್ಲಿ ಯಾವುದನ್ನು ಉತ್ತೇಜಿಸಿದರು?",
+
+    "optionsEnglish": [
+      "Harmony and moral values",
+      "Warfare",
+      "Luxury lifestyle",
+      "Foreign trade"
+    ],
+
+    "optionsKannada": [
+      "ಸೌಹಾರ್ದತೆ ಮತ್ತು ನೈತಿಕ ಮೌಲ್ಯಗಳು",
+      "ಯುದ್ಧ",
+      "ಐಷಾರಾಮಿ ಜೀವನ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ"
+    ],
+
+    "correctAnswerEnglish": "Harmony and moral values",
+    "correctAnswerKannada": "ಸೌಹಾರ್ದತೆ ಮತ್ತು ನೈತಿಕ ಮೌಲ್ಯಗಳು"
+  },
+  {
+    "heroName": "Kengal Hanumanthaiah",
+
+    "questionEnglish": "Kengal Hanumanthaiah served as the Chief Minister of which state?",
+    "questionKannada": "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯ ಯಾವ ರಾಜ್ಯದ ಮುಖ್ಯಮಂತ್ರಿಯಾಗಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Mysore State",
+      "Madras State",
+      "Bombay State",
+      "Hyderabad State"
+    ],
+
+    "optionsKannada": [
+      "ಮೈಸೂರು ರಾಜ್ಯ",
+      "ಮದ್ರಾಸ್ ರಾಜ್ಯ",
+      "ಬಾಂಬೆ ರಾಜ್ಯ",
+      "ಹೈದರಾಬಾದ್ ರಾಜ್ಯ"
+    ],
+
+    "correctAnswerEnglish": "Mysore State",
+    "correctAnswerKannada": "ಮೈಸೂರು ರಾಜ್ಯ"
+  },
+  {
+    "heroName": "Kengal Hanumanthaiah",
+
+    "questionEnglish": "Which famous building is associated with Kengal Hanumanthaiah?",
+    "questionKannada": "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯರೊಂದಿಗೆ ಯಾವ ಪ್ರಸಿದ್ಧ ಕಟ್ಟಡ ಸಂಬಂಧಿಸಿದೆ?",
+
+    "optionsEnglish": [
+      "Vidhana Soudha",
+      "Mysore Palace",
+      "Gol Gumbaz",
+      "Lalbagh Glass House"
+    ],
+
+    "optionsKannada": [
+      "ವಿಧಾನಸೌಧ",
+      "ಮೈಸೂರು ಅರಮನೆ",
+      "ಗೋಲ್ ಗುಂಬಜ್",
+      "ಲಾಲ್‌ಬಾಗ್ ಗ್ಲಾಸ್ ಹೌಸ್"
+    ],
+
+    "correctAnswerEnglish": "Vidhana Soudha",
+    "correctAnswerKannada": "ವಿಧಾನಸೌಧ"
+  },
+  {
+    "heroName": "Kengal Hanumanthaiah",
+
+    "questionEnglish": "What did Kengal Hanumanthaiah strongly support?",
+    "questionKannada": "ಕೆಂಗಲ್ ಹನುಮಂತಯ್ಯ ಯಾವ ವಿಷಯವನ್ನು ಬಲವಾಗಿ ಬೆಂಬಲಿಸಿದರು?",
+
+    "optionsEnglish": [
+      "Development and public welfare",
+      "Foreign rule",
+      "Military expansion",
+      "Luxury trade"
+    ],
+
+    "optionsKannada": [
+      "ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಜನಕಲ್ಯಾಣ",
+      "ವಿದೇಶಿ ಆಡಳಿತ",
+      "ಸೈನಿಕ ವಿಸ್ತರಣೆ",
+      "ಐಷಾರಾಮಿ ವ್ಯಾಪಾರ"
+    ],
+
+    "correctAnswerEnglish": "Development and public welfare",
+    "correctAnswerKannada": "ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಜನಕಲ್ಯಾಣ"
+  },
+  {
+    "heroName": "Ballari Siddamma",
+
+    "questionEnglish": "Ballari Siddamma is remembered as a?",
+    "questionKannada": "ಬಳ್ಳಾರಿ ಸಿದ್ದಮ್ಮರನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Freedom fighter",
+      "Scientist",
+      "Singer",
+      "Queen"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿ",
+      "ವಿಜ್ಞಾನಿ",
+      "ಗಾಯಕಿ",
+      "ರಾಣಿ"
+    ],
+
+    "correctAnswerEnglish": "Freedom fighter",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿ"
+  },
+  {
+    "heroName": "Ballari Siddamma",
+
+    "questionEnglish": "Which district is associated with Ballari Siddamma?",
+    "questionKannada": "ಬಳ್ಳಾರಿ ಸಿದ್ದಮ್ಮ ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Ballari",
+      "Mysuru",
+      "Kodagu",
+      "Tumakuru"
+    ],
+
+    "optionsKannada": [
+      "ಬಳ್ಳಾರಿ",
+      "ಮೈಸೂರು",
+      "ಕೊಡಗು",
+      "ತುಮಕೂರು"
+    ],
+
+    "correctAnswerEnglish": "Ballari",
+    "correctAnswerKannada": "ಬಳ್ಳಾರಿ"
+  },
+  {
+    "heroName": "Ballari Siddamma",
+
+    "questionEnglish": "Ballari Siddamma worked for which cause?",
+    "questionKannada": "ಬಳ್ಳಾರಿ ಸಿದ್ದಮ್ಮ ಯಾವ ಕಾರಣಕ್ಕಾಗಿ ಕೆಲಸ ಮಾಡಿದರು?",
+
+    "optionsEnglish": [
+      "Social welfare and freedom",
+      "Foreign trade",
+      "Film industry",
+      "Sports"
+    ],
+
+    "optionsKannada": [
+      "ಸಮಾಜ ಸೇವೆ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಚಿತ್ರರಂಗ",
+      "ಕ್ರೀಡೆ"
+    ],
+
+    "correctAnswerEnglish": "Social welfare and freedom",
+    "correctAnswerKannada": "ಸಮಾಜ ಸೇವೆ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯ"
+  },
+  {
+    "heroName": "Swami Ramanand Tirtha",
+
+    "questionEnglish": "Swami Ramanand Tirtha is known for leading which movement?",
+    "questionKannada": "ಸ್ವಾಮಿ ರಾಮಾನಂದ ತೀರ್ಥರು ಯಾವ ಚಳವಳಿಯನ್ನು ಮುನ್ನಡೆಸಿದಕ್ಕಾಗಿ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Hyderabad Liberation Movement",
+      "Quit India Movement",
+      "Chipko Movement",
+      "Salt Satyagraha"
+    ],
+
+    "optionsKannada": [
+      "ಹೈದರಾಬಾದ್ ವಿಮೋಚನಾ ಚಳವಳಿ",
+      "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳವಳಿ",
+      "ಚಿಪ್ಕೋ ಚಳವಳಿ",
+      "ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹ"
+    ],
+
+    "correctAnswerEnglish": "Hyderabad Liberation Movement",
+    "correctAnswerKannada": "ಹೈದರಾಬಾದ್ ವಿಮೋಚನಾ ಚಳವಳಿ"
+  },
+  {
+    "heroName": "Swami Ramanand Tirtha",
+
+    "questionEnglish": "Which district is associated with Swami Ramanand Tirtha?",
+    "questionKannada": "ಸ್ವಾಮಿ ರಾಮಾನಂದ ತೀರ್ಥರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Bidar",
+      "Mysuru",
+      "Mandya",
+      "Kodagu"
+    ],
+
+    "optionsKannada": [
+      "ಬೀದರ್",
+      "ಮೈಸೂರು",
+      "ಮಂಡ್ಯ",
+      "ಕೊಡಗು"
+    ],
+
+    "correctAnswerEnglish": "Bidar",
+    "correctAnswerKannada": "ಬೀದರ್"
+  },
+  {
+    "heroName": "Swami Ramanand Tirtha",
+
+    "questionEnglish": "Swami Ramanand Tirtha worked mainly for?",
+    "questionKannada": "ಸ್ವಾಮಿ ರಾಮಾನಂದ ತೀರ್ಥರು ಮುಖ್ಯವಾಗಿ ಯಾವ ಕಾರಣಕ್ಕಾಗಿ ಕೆಲಸ ಮಾಡಿದರು?",
+
+    "optionsEnglish": [
+      "Freedom and social reform",
+      "Foreign trade",
+      "Entertainment",
+      "Military expansion"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಸಮಾಜ ಸುಧಾರಣೆ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಮನರಂಜನೆ",
+      "ಸೈನಿಕ ವಿಸ್ತರಣೆ"
+    ],
+
+    "correctAnswerEnglish": "Freedom and social reform",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಸಮಾಜ ಸುಧಾರಣೆ"
+  },
+  {
+    "heroName": "Male Mahadeshwara",
+
+    "questionEnglish": "Male Mahadeshwara is worshipped as a?",
+    "questionKannada": "ಮಲೆ ಮಹದೇಶ್ವರರನ್ನು ಯಾವ ರೂಪದಲ್ಲಿ ಪೂಜಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Saint and spiritual leader",
+      "King",
+      "Scientist",
+      "Warrior"
+    ],
+
+    "optionsKannada": [
+      "ಸಂತ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ನಾಯಕ",
+      "ರಾಜ",
+      "ವಿಜ್ಞಾನಿ",
+      "ಯೋಧ"
+    ],
+
+    "correctAnswerEnglish": "Saint and spiritual leader",
+    "correctAnswerKannada": "ಸಂತ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ನಾಯಕ"
+  },
+  {
+    "heroName": "Male Mahadeshwara",
+
+    "questionEnglish": "Male Mahadeshwara Hills are located in which district?",
+    "questionKannada": "ಮಲೆ ಮಹದೇಶ್ವರ ಬೆಟ್ಟಗಳು ಯಾವ ಜಿಲ್ಲೆಯಲ್ಲಿ ಇವೆ?",
+
+    "optionsEnglish": [
+      "Chamarajanagar",
+      "Kodagu",
+      "Mandya",
+      "Raichur"
+    ],
+
+    "optionsKannada": [
+      "ಚಾಮರಾಜನಗರ",
+      "ಕೊಡಗು",
+      "ಮಂಡ್ಯ",
+      "ರಾಯಚೂರು"
+    ],
+
+    "correctAnswerEnglish": "Chamarajanagar",
+    "correctAnswerKannada": "ಚಾಮರಾಜನಗರ"
+  },
+  {
+    "heroName": "Male Mahadeshwara",
+
+    "questionEnglish": "What is Male Mahadeshwara famous for?",
+    "questionKannada": "ಮಲೆ ಮಹದೇಶ್ವರರು ಯಾವ ಕಾರಣಕ್ಕಾಗಿ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Spiritual teachings and miracles",
+      "Military victories",
+      "Architecture",
+      "Business"
+    ],
+
+    "optionsKannada": [
+      "ಆಧ್ಯಾತ್ಮಿಕ ಉಪದೇಶಗಳು ಮತ್ತು ಅದ್ಭುತಗಳು",
+      "ಸೈನಿಕ ವಿಜಯಗಳು",
+      "ವಾಸ್ತುಶಿಲ್ಪ",
+      "ವ್ಯವಹಾರ"
+    ],
+
+    "correctAnswerEnglish": "Spiritual teachings and miracles",
+    "correctAnswerKannada": "ಆಧ್ಯಾತ್ಮಿಕ ಉಪದೇಶಗಳು ಮತ್ತು ಅದ್ಭುತಗಳು"
+  },
+  {
+    "heroName": "Baba Budan",
+
+    "questionEnglish": "Baba Budan is associated with introducing which crop to Karnataka?",
+    "questionKannada": "ಬಾಬಾ ಬುಡನ್ ಕರ್ನಾಟಕಕ್ಕೆ ಯಾವ ಬೆಳೆಯನ್ನು ಪರಿಚಯಿಸಿದಕ್ಕಾಗಿ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Coffee",
+      "Tea",
+      "Pepper",
+      "Cardamom"
+    ],
+
+    "optionsKannada": [
+      "ಕಾಫಿ",
+      "ಚಹಾ",
+      "ಮೆಣಸು",
+      "ಏಲಕ್ಕಿ"
+    ],
+
+    "correctAnswerEnglish": "Coffee",
+    "correctAnswerKannada": "ಕಾಫಿ"
+  },
+  {
+    "heroName": "Baba Budan",
+
+    "questionEnglish": "Baba Budan Hills are located in which district?",
+    "questionKannada": "ಬಾಬಾ ಬುಡನ್ ಗಿರಿ ಯಾವ ಜಿಲ್ಲೆಯಲ್ಲಿ ಇದೆ?",
+
+    "optionsEnglish": [
+      "Chikkamagaluru",
+      "Kodagu",
+      "Shivamogga",
+      "Hassan"
+    ],
+
+    "optionsKannada": [
+      "ಚಿಕ್ಕಮಗಳೂರು",
+      "ಕೊಡಗು",
+      "ಶಿವಮೊಗ್ಗ",
+      "ಹಾಸನ"
+    ],
+
+    "correctAnswerEnglish": "Chikkamagaluru",
+    "correctAnswerKannada": "ಚಿಕ್ಕಮಗಳೂರು"
+  },
+  {
+    "heroName": "Baba Budan",
+
+    "questionEnglish": "Baba Budan is remembered as a?",
+    "questionKannada": "ಬಾಬಾ ಬುಡನ್ ಅವರನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Sufi saint",
+      "King",
+      "Scientist",
+      "Poet"
+    ],
+
+    "optionsKannada": [
+      "ಸೂಫಿ ಸಂತ",
+      "ರಾಜ",
+      "ವಿಜ್ಞಾನಿ",
+      "ಕವಿ"
+    ],
+
+    "correctAnswerEnglish": "Sufi saint",
+    "correctAnswerKannada": "ಸೂಫಿ ಸಂತ"
+  },
+  {
+    "heroName": "A.S. Laxmi Narayan",
+
+    "questionEnglish": "A.S. Laxmi Narayan was famous in which field?",
+    "questionKannada": "ಎ.ಎಸ್. ಲಕ್ಷ್ಮೀ ನಾರಾಯಣ ಯಾವ ಕ್ಷೇತ್ರಕ್ಕೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Literature and public service",
+      "Space science",
+      "Military warfare",
+      "Sports"
+    ],
+
+    "optionsKannada": [
+      "ಸಾಹಿತ್ಯ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಸೇವೆ",
+      "ಅಂತರಿಕ್ಷ ವಿಜ್ಞಾನ",
+      "ಸೈನಿಕ ಯುದ್ಧ",
+      "ಕ್ರೀಡೆ"
+    ],
+
+    "correctAnswerEnglish": "Literature and public service",
+    "correctAnswerKannada": "ಸಾಹಿತ್ಯ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಸೇವೆ"
+  },
+  {
+    "heroName": "A.S. Laxmi Narayan",
+
+    "questionEnglish": "Which city is associated with A.S. Laxmi Narayan?",
+    "questionKannada": "ಎ.ಎಸ್. ಲಕ್ಷ್ಮೀ ನಾರಾಯಣ ಯಾವ ನಗರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Bengaluru",
+      "Mysuru",
+      "Ballari",
+      "Raichur"
+    ],
+
+    "optionsKannada": [
+      "ಬೆಂಗಳೂರು",
+      "ಮೈಸೂರು",
+      "ಬಳ್ಳಾರಿ",
+      "ರಾಯಚೂರು"
+    ],
+
+    "correctAnswerEnglish": "Bengaluru",
+    "correctAnswerKannada": "ಬೆಂಗಳೂರು"
+  },
+  {
+    "heroName": "A.S. Laxmi Narayan",
+
+    "questionEnglish": "A.S. Laxmi Narayan is remembered for promoting?",
+    "questionKannada": "ಎ.ಎಸ್. ಲಕ್ಷ್ಮೀ ನಾರಾಯಣ ಯಾವ ವಿಷಯವನ್ನು ಉತ್ತೇಜಿಸಿದಕ್ಕಾಗಿ ನೆನಪಾಗುತ್ತಾರೆ?",
+
+    "optionsEnglish": [
+      "Education and social awareness",
+      "Foreign trade",
+      "Luxury lifestyle",
+      "Industrial warfare"
+    ],
+
+    "optionsKannada": [
+      "ಶಿಕ್ಷಣ ಮತ್ತು ಸಾಮಾಜಿಕ ಜಾಗೃತಿ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಐಷಾರಾಮಿ ಜೀವನ",
+      "ಕೈಗಾರಿಕಾ ಯುದ್ಧ"
+    ],
+
+    "correctAnswerEnglish": "Education and social awareness",
+    "correctAnswerKannada": "ಶಿಕ್ಷಣ ಮತ್ತು ಸಾಮಾಜಿಕ ಜಾಗೃತಿ"
+  },
+  {
+    "heroName": "Kumara Vyasa",
+
+    "questionEnglish": "Kumara Vyasa is famous for writing which Kannada work?",
+    "questionKannada": "ಕುಮಾರ ವ್ಯಾಸರು ಯಾವ ಕನ್ನಡ ಕೃತಿಗಾಗಿ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Karnata Bharata Kathamanjari",
+      "Mankuthimmana Kagga",
+      "Jaya Bharata",
+      "Vachanas"
+    ],
+
+    "optionsKannada": [
+      "ಕರ್ನಾಟಕ ಭಾರತ ಕಥಾಮಂಜರಿ",
+      "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ",
+      "ಜಯ ಭಾರತ",
+      "ವಚನಗಳು"
+    ],
+
+    "correctAnswerEnglish": "Karnata Bharata Kathamanjari",
+    "correctAnswerKannada": "ಕರ್ನಾಟಕ ಭಾರತ ಕಥಾಮಂಜರಿ"
+  },
+  {
+    "heroName": "Kumara Vyasa",
+
+    "questionEnglish": "Kumara Vyasa belonged to which district?",
+    "questionKannada": "ಕುಮಾರ ವ್ಯಾಸರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಸೇರಿದವರು?",
+
+    "optionsEnglish": [
+      "Gadag",
+      "Mysuru",
+      "Kodagu",
+      "Mandya"
+    ],
+
+    "optionsKannada": [
+      "ಗದಗ",
+      "ಮೈಸೂರು",
+      "ಕೊಡಗು",
+      "ಮಂಡ್ಯ"
+    ],
+
+    "correctAnswerEnglish": "Gadag",
+    "correctAnswerKannada": "ಗದಗ"
+  },
+  {
+    "heroName": "Kumara Vyasa",
+
+    "questionEnglish": "Kumara Vyasa is remembered as a?",
+    "questionKannada": "ಕುಮಾರ ವ್ಯಾಸರನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Great Kannada poet",
+      "Scientist",
+      "King",
+      "Warrior"
+    ],
+
+    "optionsKannada": [
+      "ಮಹಾನ್ ಕನ್ನಡ ಕವಿ",
+      "ವಿಜ್ಞಾನಿ",
+      "ರಾಜ",
+      "ಯೋಧ"
+    ],
+
+    "correctAnswerEnglish": "Great Kannada poet",
+    "correctAnswerKannada": "ಮಹಾನ್ ಕನ್ನಡ ಕವಿ"
+  },
+  {
+    "heroName": "Sri Bandappa Shesharao",
+
+    "questionEnglish": "Sri Bandappa Shesharao was associated with which movement?",
+    "questionKannada": "ಶ್ರೀ ಬಂಡಪ್ಪ ಶೇಷರಾವ್ ಯಾವ ಚಳವಳಿಗೆ ಸಂಬಂಧಿಸಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Hyderabad-Karnataka Liberation Movement",
+      "Quit India Movement",
+      "Chipko Movement",
+      "Swadeshi Movement"
+    ],
+
+    "optionsKannada": [
+      "ಹೈದರಾಬಾದ್ ಕರ್ನಾಟಕ ವಿಮೋಚನಾ ಚಳವಳಿ",
+      "ಕ್ವಿಟ್ ಇಂಡಿಯಾ ಚಳವಳಿ",
+      "ಚಿಪ್ಕೋ ಚಳವಳಿ",
+      "ಸ್ವದೇಶಿ ಚಳವಳಿ"
+    ],
+
+    "correctAnswerEnglish": "Hyderabad-Karnataka Liberation Movement",
+    "correctAnswerKannada": "ಹೈದರಾಬಾದ್ ಕರ್ನಾಟಕ ವಿಮೋಚನಾ ಚಳವಳಿ"
+  },
+  {
+    "heroName": "Sri Bandappa Shesharao",
+
+    "questionEnglish": "Which district is associated with Sri Bandappa Shesharao?",
+    "questionKannada": "ಶ್ರೀ ಬಂಡಪ್ಪ ಶೇಷರಾವ್ ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Kalaburagi",
+      "Mysuru",
+      "Mandya",
+      "Kodagu"
+    ],
+
+    "optionsKannada": [
+      "ಕಲಬುರಗಿ",
+      "ಮೈಸೂರು",
+      "ಮಂಡ್ಯ",
+      "ಕೊಡಗು"
+    ],
+
+    "correctAnswerEnglish": "Kalaburagi",
+    "correctAnswerKannada": "ಕಲಬುರಗಿ"
+  },
+  {
+    "heroName": "Sri Bandappa Shesharao",
+
+    "questionEnglish": "Sri Bandappa Shesharao worked mainly for?",
+    "questionKannada": "ಶ್ರೀ ಬಂಡಪ್ಪ ಶೇಷರಾವ್ ಮುಖ್ಯವಾಗಿ ಯಾವ ಕಾರಣಕ್ಕಾಗಿ ಕೆಲಸ ಮಾಡಿದರು?",
+
+    "optionsEnglish": [
+      "Freedom and social welfare",
+      "Foreign trade",
+      "Entertainment",
+      "Military expansion"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಸಮಾಜ ಕಲ್ಯಾಣ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಮನರಂಜನೆ",
+      "ಸೈನಿಕ ವಿಸ್ತರಣೆ"
+    ],
+
+    "correctAnswerEnglish": "Freedom and social welfare",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಸಮಾಜ ಕಲ್ಯಾಣ"
+  },
+  {
+    "heroName": "B. Shamsundar",
+
+    "questionEnglish": "B. Shamsundar is remembered as a?",
+    "questionKannada": "ಬಿ. ಶ್ಯಾಮಸುಂದರ್ ಅವರನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Social reformer",
+      "Scientist",
+      "King",
+      "Singer"
+    ],
+
+    "optionsKannada": [
+      "ಸಮಾಜ ಸುಧಾರಕ",
+      "ವಿಜ್ಞಾನಿ",
+      "ರಾಜ",
+      "ಗಾಯಕ"
+    ],
+
+    "correctAnswerEnglish": "Social reformer",
+    "correctAnswerKannada": "ಸಮಾಜ ಸುಧಾರಕ"
+  },
+  {
+    "heroName": "B. Shamsundar",
+
+    "questionEnglish": "Which district is associated with B. Shamsundar?",
+    "questionKannada": "ಬಿ. ಶ್ಯಾಮಸುಂದರ್ ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Kalaburagi",
+      "Kodagu",
+      "Mandya",
+      "Mysuru"
+    ],
+
+    "optionsKannada": [
+      "ಕಲಬುರಗಿ",
+      "ಕೊಡಗು",
+      "ಮಂಡ್ಯ",
+      "ಮೈಸೂರು"
+    ],
+
+    "correctAnswerEnglish": "Kalaburagi",
+    "correctAnswerKannada": "ಕಲಬುರಗಿ"
+  },
+  {
+    "heroName": "B. Shamsundar",
+
+    "questionEnglish": "B. Shamsundar worked mainly for?",
+    "questionKannada": "ಬಿ. ಶ್ಯಾಮಸುಂದರ್ ಮುಖ್ಯವಾಗಿ ಯಾವ ಕಾರಣಕ್ಕಾಗಿ ಕೆಲಸ ಮಾಡಿದರು?",
+
+    "optionsEnglish": [
+      "Social equality and justice",
+      "Military warfare",
+      "Foreign trade",
+      "Entertainment"
+    ],
+
+    "optionsKannada": [
+      "ಸಾಮಾಜಿಕ ಸಮಾನತೆ ಮತ್ತು ನ್ಯಾಯ",
+      "ಸೈನಿಕ ಯುದ್ಧ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಮನರಂಜನೆ"
+    ],
+
+    "correctAnswerEnglish": "Social equality and justice",
+    "correctAnswerKannada": "ಸಾಮಾಜಿಕ ಸಮಾನತೆ ಮತ್ತು ನ್ಯಾಯ"
+  },
+  {
+    "heroName": "Jakanachari",
+
+    "questionEnglish": "Jakanachari was famous for which art?",
+    "questionKannada": "ಜಕಣಾಚಾರಿ ಯಾವ ಕಲೆಗೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Sculpture",
+      "Music",
+      "Painting",
+      "Dance"
+    ],
+
+    "optionsKannada": [
+      "ಶಿಲ್ಪಕಲೆ",
+      "ಸಂಗೀತ",
+      "ಚಿತ್ರಕಲೆ",
+      "ನೃತ್ಯ"
+    ],
+
+    "correctAnswerEnglish": "Sculpture",
+    "correctAnswerKannada": "ಶಿಲ್ಪಕಲೆ"
+  },
+  {
+    "heroName": "Jakanachari",
+
+    "questionEnglish": "Which district is associated with Jakanachari?",
+    "questionKannada": "ಜಕಣಾಚಾರಿ ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Davanagere",
+      "Mysuru",
+      "Kodagu",
+      "Raichur"
+    ],
+
+    "optionsKannada": [
+      "ದಾವಣಗೆರೆ",
+      "ಮೈಸೂರು",
+      "ಕೊಡಗು",
+      "ರಾಯಚೂರು"
+    ],
+
+    "correctAnswerEnglish": "Davanagere",
+    "correctAnswerKannada": "ದಾವಣಗೆರೆ"
+  },
+  {
+    "heroName": "Jakanachari",
+
+    "questionEnglish": "Jakanachari is remembered for building beautiful?",
+    "questionKannada": "ಜಕಣಾಚಾರಿಯನ್ನು ಸುಂದರವಾದ ಯಾವುದನ್ನು ನಿರ್ಮಿಸಿದಕ್ಕಾಗಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Temples and sculptures",
+      "Airports",
+      "Factories",
+      "Bridges"
+    ],
+
+    "optionsKannada": [
+      "ದೇವಾಲಯಗಳು ಮತ್ತು ಶಿಲ್ಪಗಳು",
+      "ವಿಮಾನ ನಿಲ್ದಾಣಗಳು",
+      "ಕಾರ್ಖಾನೆಗಳು",
+      "ಸೇತುವೆಗಳು"
+    ],
+
+    "correctAnswerEnglish": "Temples and sculptures",
+    "correctAnswerKannada": "ದೇವಾಲಯಗಳು ಮತ್ತು ಶಿಲ್ಪಗಳು"
+  },
+  {
+    "heroName": "Vishnuvardhana",
+
+    "questionEnglish": "Vishnuvardhana was a ruler of which dynasty?",
+    "questionKannada": "ವಿಷ್ಣುವರ್ಧನ ಯಾವ ವಂಶದ ರಾಜರಾಗಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Hoysala Dynasty",
+      "Vijayanagara Dynasty",
+      "Chalukya Dynasty",
+      "Maurya Dynasty"
+    ],
+
+    "optionsKannada": [
+      "ಹೊಯ್ಸಳ ವಂಶ",
+      "ವಿಜಯನಗರ ವಂಶ",
+      "ಚಾಲುಕ್ಯ ವಂಶ",
+      "ಮೌರ್ಯ ವಂಶ"
+    ],
+
+    "correctAnswerEnglish": "Hoysala Dynasty",
+    "correctAnswerKannada": "ಹೊಯ್ಸಳ ವಂಶ"
+  },
+  {
+    "heroName": "Vishnuvardhana",
+
+    "questionEnglish": "Which district is associated with Vishnuvardhana?",
+    "questionKannada": "ವಿಷ್ಣುವರ್ಧನ ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Hassan",
+      "Kodagu",
+      "Mysuru",
+      "Ballari"
+    ],
+
+    "optionsKannada": [
+      "ಹಾಸನ",
+      "ಕೊಡಗು",
+      "ಮೈಸೂರು",
+      "ಬಳ್ಳಾರಿ"
+    ],
+
+    "correctAnswerEnglish": "Hassan",
+    "correctAnswerKannada": "ಹಾಸನ"
+  },
+  {
+    "heroName": "Vishnuvardhana",
+
+    "questionEnglish": "Vishnuvardhana is remembered for promoting?",
+    "questionKannada": "ವಿಷ್ಣುವರ್ಧನ ಯಾವ ವಿಷಯವನ್ನು ಉತ್ತೇಜಿಸಿದಕ್ಕಾಗಿ ನೆನಪಾಗುತ್ತಾರೆ?",
+
+    "optionsEnglish": [
+      "Temple architecture and culture",
+      "Foreign trade",
+      "Modern technology",
+      "Sports"
+    ],
+
+    "optionsKannada": [
+      "ದೇವಾಲಯ ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ಸಂಸ್ಕೃತಿ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಆಧುನಿಕ ತಂತ್ರಜ್ಞಾನ",
+      "ಕ್ರೀಡೆ"
+    ],
+
+    "correctAnswerEnglish": "Temple architecture and culture",
+    "correctAnswerKannada": "ದೇವಾಲಯ ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ಸಂಸ್ಕೃತಿ"
+  },
+  {
+    "heroName": "D.V. Gundappa",
+
+    "questionEnglish": "D.V. Gundappa was famous as a?",
+    "questionKannada": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ ಯಾವ ಕ್ಷೇತ್ರಕ್ಕೆ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Writer and philosopher",
+      "Scientist",
+      "King",
+      "Singer"
+    ],
+
+    "optionsKannada": [
+      "ಸಾಹಿತಿ ಮತ್ತು ತತ್ವಜ್ಞಾನಿ",
+      "ವಿಜ್ಞಾನಿ",
+      "ರಾಜ",
+      "ಗಾಯಕ"
+    ],
+
+    "correctAnswerEnglish": "Writer and philosopher",
+    "correctAnswerKannada": "ಸಾಹಿತಿ ಮತ್ತು ತತ್ವಜ್ಞಾನಿ"
+  },
+  {
+    "heroName": "D.V. Gundappa",
+
+    "questionEnglish": "Which famous work was written by D.V. Gundappa?",
+    "questionKannada": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪರು ಯಾವ ಪ್ರಸಿದ್ಧ ಕೃತಿಯನ್ನು ರಚಿಸಿದರು?",
+
+    "optionsEnglish": [
+      "Mankuthimmana Kagga",
+      "Karnata Bharata Kathamanjari",
+      "Vachanas",
+      "Jaya Bharata"
+    ],
+
+    "optionsKannada": [
+      "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ",
+      "ಕರ್ನಾಟಕ ಭಾರತ ಕಥಾಮಂಜರಿ",
+      "ವಚನಗಳು",
+      "ಜಯ ಭಾರತ"
+    ],
+
+    "correctAnswerEnglish": "Mankuthimmana Kagga",
+    "correctAnswerKannada": "ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ"
+  },
+  {
+    "heroName": "D.V. Gundappa",
+
+    "questionEnglish": "Which city is associated with D.V. Gundappa?",
+    "questionKannada": "ಡಿ.ವಿ. ಗುಂಡಪ್ಪ ಯಾವ ನಗರಕ್ಕೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Bengaluru",
+      "Mangaluru",
+      "Ballari",
+      "Raichur"
+    ],
+
+    "optionsKannada": [
+      "ಬೆಂಗಳೂರು",
+      "ಮಂಗಳೂರು",
+      "ಬಳ್ಳಾರಿ",
+      "ರಾಯಚೂರು"
+    ],
+
+    "correctAnswerEnglish": "Bengaluru",
+    "correctAnswerKannada": "ಬೆಂಗಳೂರು"
+  },
+  {
+    "heroName": "K.C. Reddy",
+
+    "questionEnglish": "K.C. Reddy was the first Chief Minister of which state?",
+    "questionKannada": "ಕೆ.ಸಿ. ರೆಡ್ಡಿ ಯಾವ ರಾಜ್ಯದ ಮೊದಲ ಮುಖ್ಯಮಂತ್ರಿಯಾಗಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Mysore State",
+      "Madras State",
+      "Bombay State",
+      "Hyderabad State"
+    ],
+
+    "optionsKannada": [
+      "ಮೈಸೂರು ರಾಜ್ಯ",
+      "ಮದ್ರಾಸ್ ರಾಜ್ಯ",
+      "ಬಾಂಬೆ ರಾಜ್ಯ",
+      "ಹೈದರಾಬಾದ್ ರಾಜ್ಯ"
+    ],
+
+    "correctAnswerEnglish": "Mysore State",
+    "correctAnswerKannada": "ಮೈಸೂರು ರಾಜ್ಯ"
+  },
+  {
+    "heroName": "K.C. Reddy",
+
+    "questionEnglish": "Which district is associated with K.C. Reddy?",
+    "questionKannada": "ಕೆ.ಸಿ. ರೆಡ್ಡಿ ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Kolar",
+      "Mandya",
+      "Kodagu",
+      "Ballari"
+    ],
+
+    "optionsKannada": [
+      "ಕೋಲಾರ",
+      "ಮಂಡ್ಯ",
+      "ಕೊಡಗು",
+      "ಬಳ್ಳಾರಿ"
+    ],
+
+    "correctAnswerEnglish": "Kolar",
+    "correctAnswerKannada": "ಕೋಲಾರ"
+  },
+  {
+    "heroName": "K.C. Reddy",
+
+    "questionEnglish": "K.C. Reddy is remembered for contributing to?",
+    "questionKannada": "ಕೆ.ಸಿ. ರೆಡ್ಡಿ ಯಾವ ಕ್ಷೇತ್ರಕ್ಕೆ ಕೊಡುಗೆ ನೀಡಿದಕ್ಕಾಗಿ ನೆನಪಾಗುತ್ತಾರೆ?",
+
+    "optionsEnglish": [
+      "Administration and public welfare",
+      "Film industry",
+      "Military warfare",
+      "Sports"
+    ],
+
+    "optionsKannada": [
+      "ಆಡಳಿತ ಮತ್ತು ಜನಕಲ್ಯಾಣ",
+      "ಚಿತ್ರರಂಗ",
+      "ಸೈನಿಕ ಯುದ್ಧ",
+      "ಕ್ರೀಡೆ"
+    ],
+
+    "correctAnswerEnglish": "Administration and public welfare",
+    "correctAnswerKannada": "ಆಡಳಿತ ಮತ್ತು ಜನಕಲ್ಯಾಣ"
+  },
+  {
+    "heroName": "Mundargi Bheema Rao",
+
+    "questionEnglish": "Mundargi Bheema Rao fought against which rulers?",
+    "questionKannada": "ಮುಂಡರಗಿ ಭೀಮರಾವ್ ಯಾವ ಆಳ್ವಿಕರ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?",
+
+    "optionsEnglish": [
+      "British",
+      "French",
+      "Portuguese",
+      "Dutch"
+    ],
+
+    "optionsKannada": [
+      "ಬ್ರಿಟಿಷರು",
+      "ಫ್ರೆಂಚರು",
+      "ಪೋರ್ಚುಗೀಸರು",
+      "ಡಚ್"
+    ],
+
+    "correctAnswerEnglish": "British",
+    "correctAnswerKannada": "ಬ್ರಿಟಿಷರು"
+  },
+  {
+    "heroName": "Mundargi Bheema Rao",
+
+    "questionEnglish": "Which district is associated with Mundargi Bheema Rao?",
+    "questionKannada": "ಮುಂಡರಗಿ ಭೀಮರಾವ್ ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Gadag",
+      "Mysuru",
+      "Kodagu",
+      "Bidar"
+    ],
+
+    "optionsKannada": [
+      "ಗದಗ",
+      "ಮೈಸೂರು",
+      "ಕೊಡಗು",
+      "ಬೀದರ್"
+    ],
+
+    "correctAnswerEnglish": "Gadag",
+    "correctAnswerKannada": "ಗದಗ"
+  },
+  {
+    "heroName": "Mundargi Bheema Rao",
+
+    "questionEnglish": "Mundargi Bheema Rao is remembered as a?",
+    "questionKannada": "ಮುಂಡರಗಿ ಭೀಮರಾವರನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Freedom fighter",
+      "Scientist",
+      "Poet",
+      "Musician"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+      "ವಿಜ್ಞಾನಿ",
+      "ಕವಿ",
+      "ಸಂಗೀತಗಾರ"
+    ],
+
+    "correctAnswerEnglish": "Freedom fighter",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ"
+  },
+  {
+    "heroName": "Hammige Bheema Rao",
+
+    "questionEnglish": "Hammige Bheema Rao is remembered as a?",
+    "questionKannada": "ಹಮ್ಮಿಗೆ ಭೀಮರಾವರನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Freedom fighter",
+      "Scientist",
+      "Singer",
+      "King"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+      "ವಿಜ್ಞಾನಿ",
+      "ಗಾಯಕ",
+      "ರಾಜ"
+    ],
+
+    "correctAnswerEnglish": "Freedom fighter",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ"
+  },
+  {
+    "heroName": "Hammige Bheema Rao",
+
+    "questionEnglish": "Which district is associated with Hammige Bheema Rao?",
+    "questionKannada": "ಹಮ್ಮಿಗೆ ಭೀಮರಾವ್ ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Shivamogga",
+      "Mysuru",
+      "Kodagu",
+      "Mandya"
+    ],
+
+    "optionsKannada": [
+      "ಶಿವಮೊಗ್ಗ",
+      "ಮೈಸೂರು",
+      "ಕೊಡಗು",
+      "ಮಂಡ್ಯ"
+    ],
+
+    "correctAnswerEnglish": "Shivamogga",
+    "correctAnswerKannada": "ಶಿವಮೊಗ್ಗ"
+  },
+  {
+    "heroName": "Hammige Bheema Rao",
+
+    "questionEnglish": "Hammige Bheema Rao worked mainly for?",
+    "questionKannada": "ಹಮ್ಮಿಗೆ ಭೀಮರಾವ್ ಮುಖ್ಯವಾಗಿ ಯಾವ ಕಾರಣಕ್ಕಾಗಿ ಕೆಲಸ ಮಾಡಿದರು?",
+
+    "optionsEnglish": [
+      "Freedom and social welfare",
+      "Foreign trade",
+      "Entertainment",
+      "Sports"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಸಮಾಜ ಕಲ್ಯಾಣ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಮನರಂಜನೆ",
+      "ಕ್ರೀಡೆ"
+    ],
+
+    "correctAnswerEnglish": "Freedom and social welfare",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಸಮಾಜ ಕಲ್ಯಾಣ"
+  },
+  {
+    "heroName": "Hammige Bheema Rao",
+
+    "questionEnglish": "Hammige Bheema Rao is remembered as a?",
+    "questionKannada": "ಹಮ್ಮಿಗೆ ಭೀಮರಾವರನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Freedom fighter",
+      "Scientist",
+      "Singer",
+      "King"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+      "ವಿಜ್ಞಾನಿ",
+      "ಗಾಯಕ",
+      "ರಾಜ"
+    ],
+
+    "correctAnswerEnglish": "Freedom fighter",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ"
+  },
+  {
+    "heroName": "Hammige Bheema Rao",
+
+    "questionEnglish": "Which district is associated with Hammige Bheema Rao?",
+    "questionKannada": "ಹಮ್ಮಿಗೆ ಭೀಮರಾವ್ ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Shivamogga",
+      "Mysuru",
+      "Kodagu",
+      "Mandya"
+    ],
+
+    "optionsKannada": [
+      "ಶಿವಮೊಗ್ಗ",
+      "ಮೈಸೂರು",
+      "ಕೊಡಗು",
+      "ಮಂಡ್ಯ"
+    ],
+
+    "correctAnswerEnglish": "Shivamogga",
+    "correctAnswerKannada": "ಶಿವಮೊಗ್ಗ"
+  },
+  {
+    "heroName": "Hammige Bheema Rao",
+
+    "questionEnglish": "Hammige Bheema Rao worked mainly for?",
+    "questionKannada": "ಹಮ್ಮಿಗೆ ಭೀಮರಾವ್ ಮುಖ್ಯವಾಗಿ ಯಾವ ಕಾರಣಕ್ಕಾಗಿ ಕೆಲಸ ಮಾಡಿದರು?",
+
+    "optionsEnglish": [
+      "Freedom and social welfare",
+      "Foreign trade",
+      "Entertainment",
+      "Sports"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಸಮಾಜ ಕಲ್ಯಾಣ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಮನರಂಜನೆ",
+      "ಕ್ರೀಡೆ"
+    ],
+
+    "correctAnswerEnglish": "Freedom and social welfare",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಸಮಾಜ ಕಲ್ಯಾಣ"
+  },
+  {
+    "heroName": "Nalwadi Krishnaraja Wadiyar",
+
+    "questionEnglish": "Nalwadi Krishnaraja Wadiyar was popularly known by which title?",
+    "questionKannada": "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರನ್ನು ಯಾವ ಬಿರುದಿನಿಂದ ಕರೆಯಲಾಗುತ್ತಿತ್ತು?",
+
+    "optionsEnglish": [
+      "Rajarishi",
+      "Tiger of Mysore",
+      "Karnataka Kesari",
+      "Pepper King"
+    ],
+
+    "optionsKannada": [
+      "ರಾಜರ್ಷಿ",
+      "ಮೈಸೂರು ಹುಲಿ",
+      "ಕರ್ನಾಟಕ ಕೇಸರಿ",
+      "ಮೆಣಸಿನ ರಾಜ"
+    ],
+
+    "correctAnswerEnglish": "Rajarishi",
+    "correctAnswerKannada": "ರಾಜರ್ಷಿ"
+  },
+  {
+    "heroName": "Nalwadi Krishnaraja Wadiyar",
+
+    "questionEnglish": "Which university was established during Nalwadi Krishnaraja Wadiyar’s reign?",
+    "questionKannada": "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರ ಕಾಲದಲ್ಲಿ ಯಾವ ವಿಶ್ವವಿದ್ಯಾಲಯ ಸ್ಥಾಪಿಸಲಾಯಿತು?",
+
+    "optionsEnglish": [
+      "University of Mysore",
+      "Bangalore University",
+      "Karnatak University",
+      "Mangalore University"
+    ],
+
+    "optionsKannada": [
+      "ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ",
+      "ಬೆಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ",
+      "ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯ",
+      "ಮಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ"
+    ],
+
+    "correctAnswerEnglish": "University of Mysore",
+    "correctAnswerKannada": "ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ"
+  },
+  {
+    "heroName": "Nalwadi Krishnaraja Wadiyar",
+
+    "questionEnglish": "Nalwadi Krishnaraja Wadiyar is remembered for?",
+    "questionKannada": "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರನ್ನು ಯಾವ ಕಾರಣಕ್ಕಾಗಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Modernizing Mysore State",
+      "Foreign invasions",
+      "Film production",
+      "Sports achievements"
+    ],
+
+    "optionsKannada": [
+      "ಮೈಸೂರು ರಾಜ್ಯವನ್ನು ಆಧುನೀಕರಿಸಿದಕ್ಕಾಗಿ",
+      "ವಿದೇಶಿ ದಾಳಿಗಳು",
+      "ಚಿತ್ರ ನಿರ್ಮಾಣ",
+      "ಕ್ರೀಡಾ ಸಾಧನೆಗಳು"
+    ],
+
+    "correctAnswerEnglish": "Modernizing Mysore State",
+    "correctAnswerKannada": "ಮೈಸೂರು ರಾಜ್ಯವನ್ನು ಆಧುನೀಕರಿಸಿದಕ್ಕಾಗಿ"
+  },
+  {
+    "heroName": "Isur Freedom Fighters",
+
+    "questionEnglish": "Isur Freedom Fighters are remembered for fighting against which rule?",
+    "questionKannada": "ಈಸೂರು ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರು ಯಾವ ಆಡಳಿತದ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?",
+
+    "optionsEnglish": [
+      "British Rule",
+      "French Rule",
+      "Portuguese Rule",
+      "Dutch Rule"
+    ],
+
+    "optionsKannada": [
+      "ಬ್ರಿಟಿಷ್ ಆಡಳಿತ",
+      "ಫ್ರೆಂಚ್ ಆಡಳಿತ",
+      "ಪೋರ್ಚುಗೀಸ್ ಆಡಳಿತ",
+      "ಡಚ್ ಆಡಳಿತ"
+    ],
+
+    "correctAnswerEnglish": "British Rule",
+    "correctAnswerKannada": "ಬ್ರಿಟಿಷ್ ಆಡಳಿತ"
+  },
+  {
+    "heroName": "Isur Freedom Fighters",
+
+    "questionEnglish": "Which district is associated with the Isur Freedom Fighters?",
+    "questionKannada": "ಈಸೂರು ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರು ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Shivamogga",
+      "Mysuru",
+      "Kodagu",
+      "Mandya"
+    ],
+
+    "optionsKannada": [
+      "ಶಿವಮೊಗ್ಗ",
+      "ಮೈಸೂರು",
+      "ಕೊಡಗು",
+      "ಮಂಡ್ಯ"
+    ],
+
+    "correctAnswerEnglish": "Shivamogga",
+    "correctAnswerKannada": "ಶಿವಮೊಗ್ಗ"
+  },
+  {
+    "heroName": "Isur Freedom Fighters",
+
+    "questionEnglish": "What are the Isur Freedom Fighters remembered for?",
+    "questionKannada": "ಈಸೂರು ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರನ್ನು ಯಾವ ಕಾರಣಕ್ಕಾಗಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Courage and patriotism",
+      "Foreign trade",
+      "Entertainment",
+      "Architecture"
+    ],
+
+    "optionsKannada": [
+      "ಧೈರ್ಯ ಮತ್ತು ದೇಶಭಕ್ತಿ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಮನರಂಜನೆ",
+      "ವಾಸ್ತುಶಿಲ್ಪ"
+    ],
+
+    "correctAnswerEnglish": "Courage and patriotism",
+    "correctAnswerKannada": "ಧೈರ್ಯ ಮತ್ತು ದೇಶಭಕ್ತಿ"
+  },
+  {
+    "heroName": "Haji Abdullah",
+
+    "questionEnglish": "Haji Abdullah is remembered as a?",
+    "questionKannada": "ಹಾಜಿ ಅಬ್ದುಲ್ಲಾಹ್ ಅವರನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Freedom fighter and social worker",
+      "Scientist",
+      "Singer",
+      "King"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ ಮತ್ತು ಸಮಾಜ ಸೇವಕ",
+      "ವಿಜ್ಞಾನಿ",
+      "ಗಾಯಕ",
+      "ರಾಜ"
+    ],
+
+    "correctAnswerEnglish": "Freedom fighter and social worker",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ ಮತ್ತು ಸಮಾಜ ಸೇವಕ"
+  },
+  {
+    "heroName": "Haji Abdullah",
+
+    "questionEnglish": "Which district is associated with Haji Abdullah?",
+    "questionKannada": "ಹಾಜಿ ಅಬ್ದುಲ್ಲಾಹ್ ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Uttara Kannada",
+      "Mysuru",
+      "Mandya",
+      "Kodagu"
+    ],
+
+    "optionsKannada": [
+      "ಉತ್ತರ ಕನ್ನಡ",
+      "ಮೈಸೂರು",
+      "ಮಂಡ್ಯ",
+      "ಕೊಡಗು"
+    ],
+
+    "correctAnswerEnglish": "Uttara Kannada",
+    "correctAnswerKannada": "ಉತ್ತರ ಕನ್ನಡ"
+  },
+  {
+    "heroName": "Haji Abdullah",
+
+    "questionEnglish": "Haji Abdullah mainly worked for?",
+    "questionKannada": "ಹಾಜಿ ಅಬ್ದುಲ್ಲಾಹ್ ಮುಖ್ಯವಾಗಿ ಯಾವ ಕಾರಣಕ್ಕಾಗಿ ಕೆಲಸ ಮಾಡಿದರು?",
+
+    "optionsEnglish": [
+      "Freedom and social harmony",
+      "Foreign trade",
+      "Military warfare",
+      "Entertainment"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಸಾಮಾಜಿಕ ಸೌಹಾರ್ದತೆ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಸೈನಿಕ ಯುದ್ಧ",
+      "ಮನರಂಜನೆ"
+    ],
+
+    "correctAnswerEnglish": "Freedom and social harmony",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಸಾಮಾಜಿಕ ಸೌಹಾರ್ದತೆ"
+  },
+  {
+    "heroName": "V.B. Naik",
+
+    "questionEnglish": "V.B. Naik served as the Chief Minister of which state?",
+    "questionKannada": "ವಿ.ಬಿ. ನಾಯಕ ಯಾವ ರಾಜ್ಯದ ಮುಖ್ಯಮಂತ್ರಿಯಾಗಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Mysore State",
+      "Kerala",
+      "Tamil Nadu",
+      "Andhra Pradesh"
+    ],
+
+    "optionsKannada": [
+      "ಮೈಸೂರು ರಾಜ್ಯ",
+      "ಕೇರಳ",
+      "ತಮಿಳುನಾಡು",
+      "ಆಂಧ್ರ ಪ್ರದೇಶ"
+    ],
+
+    "correctAnswerEnglish": "Mysore State",
+    "correctAnswerKannada": "ಮೈಸೂರು ರಾಜ್ಯ"
+  },
+  {
+    "heroName": "V.B. Naik",
+
+    "questionEnglish": "Which district is associated with V.B. Naik?",
+    "questionKannada": "ವಿ.ಬಿ. ನಾಯಕ ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Yadgir",
+      "Kodagu",
+      "Mandya",
+      "Mysuru"
+    ],
+
+    "optionsKannada": [
+      "ಯಾದಗಿರಿ",
+      "ಕೊಡಗು",
+      "ಮಂಡ್ಯ",
+      "ಮೈಸೂರು"
+    ],
+
+    "correctAnswerEnglish": "Yadgir",
+    "correctAnswerKannada": "ಯಾದಗಿರಿ"
+  },
+  {
+    "heroName": "V.B. Naik",
+
+    "questionEnglish": "V.B. Naik is remembered for promoting?",
+    "questionKannada": "ವಿ.ಬಿ. ನಾಯಕ ಯಾವ ವಿಷಯವನ್ನು ಉತ್ತೇಜಿಸಿದಕ್ಕಾಗಿ ನೆನಪಾಗುತ್ತಾರೆ?",
+
+    "optionsEnglish": [
+      "Development and agriculture",
+      "Foreign invasions",
+      "Film industry",
+      "Sports"
+    ],
+
+    "optionsKannada": [
+      "ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಕೃಷಿ",
+      "ವಿದೇಶಿ ದಾಳಿಗಳು",
+      "ಚಿತ್ರರಂಗ",
+      "ಕ್ರೀಡೆ"
+    ],
+
+    "correctAnswerEnglish": "Development and agriculture",
+    "correctAnswerKannada": "ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಕೃಷಿ"
+  },
+  {
+    "heroName": "Raja Venkatappa Nayaka IV",
+
+    "questionEnglish": "Raja Venkatappa Nayaka IV was the ruler of which region?",
+    "questionKannada": "ರಾಜ ವೆಂಕಟಪ್ಪ ನಾಯಕ IV ಯಾವ ಪ್ರದೇಶದ ಆಡಳಿತಗಾರರಾಗಿದ್ದರು?",
+
+    "optionsEnglish": [
+      "Surapura",
+      "Mysore",
+      "Keladi",
+      "Kittur"
+    ],
+
+    "optionsKannada": [
+      "ಸುರಪುರ",
+      "ಮೈಸೂರು",
+      "ಕೆಳದಿ",
+      "ಕಿತ್ತೂರು"
+    ],
+
+    "correctAnswerEnglish": "Surapura",
+    "correctAnswerKannada": "ಸುರಪುರ"
+  },
+  {
+    "heroName": "Raja Venkatappa Nayaka IV",
+
+    "questionEnglish": "Which district is associated with Raja Venkatappa Nayaka IV?",
+    "questionKannada": "ರಾಜ ವೆಂಕಟಪ್ಪ ನಾಯಕ IV ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Raichur",
+      "Mandya",
+      "Kodagu",
+      "Mysuru"
+    ],
+
+    "optionsKannada": [
+      "ರಾಯಚೂರು",
+      "ಮಂಡ್ಯ",
+      "ಕೊಡಗು",
+      "ಮೈಸೂರು"
+    ],
+
+    "correctAnswerEnglish": "Raichur",
+    "correctAnswerKannada": "ರಾಯಚೂರು"
+  },
+  {
+    "heroName": "Raja Venkatappa Nayaka IV",
+
+    "questionEnglish": "Raja Venkatappa Nayaka IV is remembered for?",
+    "questionKannada": "ರಾಜ ವೆಂಕಟಪ್ಪ ನಾಯಕ IV ಅವರನ್ನು ಯಾವ ಕಾರಣಕ್ಕಾಗಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Bravery and resistance against British rule",
+      "Foreign trade",
+      "Film production",
+      "Sports achievements"
+    ],
+
+    "optionsKannada": [
+      "ಬ್ರಿಟಿಷರ ವಿರುದ್ಧದ ಧೈರ್ಯ ಮತ್ತು ಹೋರಾಟ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಚಿತ್ರ ನಿರ್ಮಾಣ",
+      "ಕ್ರೀಡಾ ಸಾಧನೆಗಳು"
+    ],
+
+    "correctAnswerEnglish": "Bravery and resistance against British rule",
+    "correctAnswerKannada": "ಬ್ರಿಟಿಷರ ವಿರುದ್ಧದ ಧೈರ್ಯ ಮತ್ತು ಹೋರಾಟ"
+  },
+  {
+    "heroName": "Siddalinga Swamy",
+
+    "questionEnglish": "Siddalinga Swamy is remembered as a?",
+    "questionKannada": "ಸಿದ್ದಲಿಂಗ ಸ್ವಾಮಿಗಳನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Spiritual leader",
+      "Scientist",
+      "Warrior",
+      "Singer"
+    ],
+
+    "optionsKannada": [
+      "ಆಧ್ಯಾತ್ಮಿಕ ನಾಯಕ",
+      "ವಿಜ್ಞಾನಿ",
+      "ಯೋಧ",
+      "ಗಾಯಕ"
+    ],
+
+    "correctAnswerEnglish": "Spiritual leader",
+    "correctAnswerKannada": "ಆಧ್ಯಾತ್ಮಿಕ ನಾಯಕ"
+  },
+  {
+    "heroName": "Siddalinga Swamy",
+
+    "questionEnglish": "Which district is associated with Siddalinga Swamy?",
+    "questionKannada": "ಸಿದ್ದಲಿಂಗ ಸ್ವಾಮಿ ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Tumakuru",
+      "Kodagu",
+      "Mandya",
+      "Raichur"
+    ],
+
+    "optionsKannada": [
+      "ತುಮಕೂರು",
+      "ಕೊಡಗು",
+      "ಮಂಡ್ಯ",
+      "ರಾಯಚೂರು"
+    ],
+
+    "correctAnswerEnglish": "Tumakuru",
+    "correctAnswerKannada": "ತುಮಕೂರು"
+  },
+  {
+    "heroName": "Siddalinga Swamy",
+
+    "questionEnglish": "Siddalinga Swamy mainly promoted?",
+    "questionKannada": "ಸಿದ್ದಲಿಂಗ ಸ್ವಾಮಿಗಳು ಮುಖ್ಯವಾಗಿ ಯಾವುದನ್ನು ಉತ್ತೇಜಿಸಿದರು?",
+
+    "optionsEnglish": [
+      "Spirituality and social service",
+      "Military warfare",
+      "Foreign trade",
+      "Entertainment"
+    ],
+
+    "optionsKannada": [
+      "ಆಧ್ಯಾತ್ಮಿಕತೆ ಮತ್ತು ಸಮಾಜ ಸೇವೆ",
+      "ಸೈನಿಕ ಯುದ್ಧ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಮನರಂಜನೆ"
+    ],
+
+    "correctAnswerEnglish": "Spirituality and social service",
+    "correctAnswerKannada": "ಆಧ್ಯಾತ್ಮಿಕತೆ ಮತ್ತು ಸಮಾಜ ಸೇವೆ"
+  },
+  {
+    "heroName": "Kottur Siddalingappa",
+
+    "questionEnglish": "Kottur Siddalingappa is remembered as a?",
+    "questionKannada": "ಕೊಟ್ಟೂರು ಸಿದ್ದಲಿಂಗಪ್ಪರನ್ನು ಯಾವ ರೀತಿಯಲ್ಲಿ ನೆನಪಿಸಲಾಗುತ್ತದೆ?",
+
+    "optionsEnglish": [
+      "Freedom fighter",
+      "Scientist",
+      "Singer",
+      "King"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ",
+      "ವಿಜ್ಞಾನಿ",
+      "ಗಾಯಕ",
+      "ರಾಜ"
+    ],
+
+    "correctAnswerEnglish": "Freedom fighter",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ"
+  },
+  {
+    "heroName": "Kottur Siddalingappa",
+
+    "questionEnglish": "Which district is associated with Kottur Siddalingappa?",
+    "questionKannada": "ಕೊಟ್ಟೂರು ಸಿದ್ದಲಿಂಗಪ್ಪ ಯಾವ ಜಿಲ್ಲೆಗೆ ಸಂಬಂಧಿಸಿದ್ದಾರೆ?",
+
+    "optionsEnglish": [
+      "Vijayanagara",
+      "Mysuru",
+      "Mandya",
+      "Kodagu"
+    ],
+
+    "optionsKannada": [
+      "ವಿಜಯನಗರ",
+      "ಮೈಸೂರು",
+      "ಮಂಡ್ಯ",
+      "ಕೊಡಗು"
+    ],
+
+    "correctAnswerEnglish": "Vijayanagara",
+    "correctAnswerKannada": "ವಿಜಯನಗರ"
+  },
+  {
+    "heroName": "Kottur Siddalingappa",
+
+    "questionEnglish": "Kottur Siddalingappa fought mainly for?",
+    "questionKannada": "ಕೊಟ್ಟೂರು ಸಿದ್ದಲಿಂಗಪ್ಪ ಮುಖ್ಯವಾಗಿ ಯಾವ ಕಾರಣಕ್ಕಾಗಿ ಹೋರಾಡಿದರು?",
+
+    "optionsEnglish": [
+      "Freedom and justice",
+      "Foreign trade",
+      "Entertainment",
+      "Military expansion"
+    ],
+
+    "optionsKannada": [
+      "ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ನ್ಯಾಯ",
+      "ವಿದೇಶಿ ವ್ಯಾಪಾರ",
+      "ಮನರಂಜನೆ",
+      "ಸೈನಿಕ ವಿಸ್ತರಣೆ"
+    ],
+
+    "correctAnswerEnglish": "Freedom and justice",
+    "correctAnswerKannada": "ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ನ್ಯಾಯ"
+  }
+]
